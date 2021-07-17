@@ -1,0 +1,11 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("Made By Dark Mane", "Sentinel")
+local Tab = Window:NewTab("Main")
+local Tab = Window:NewTab("Player")
+local PlayerSection = Tab:NewSection("Player")
+PlayerSection:NewSlider("WalkSpeed", "SliderInfo", 500, 0, function(v) -- 500 (MaxValue) | 0 (MinValue)
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = v
+end)
+ PlayerSection:NewSlider("Jump Power", "Changes Jump", 500, 0, function(v) -- 500 (MaxValue) | 0 (MinValue)
+    game.Players.LocalPlayer.Character.Humanoid.JumpPower = v
+ end)
