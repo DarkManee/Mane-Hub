@@ -1,0 +1,75 @@
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local ScreenGui = Instance.new("ScreenGui")
+local Login = Instance.new("Frame")
+local Title = Instance.new("TextLabel")
+local Enter = Instance.new("TextButton")
+local keyhere = Instance.new("TextBox")
+
+--Properties:
+
+ScreenGui.Parent = game.CoreGui
+
+Login.Name = "Login"
+Login.Parent = ScreenGui
+Login.BackgroundColor3 = Color3.fromRGB(54, 54, 54)
+Login.Position = UDim2.new(0.28741622, 0, 0.20977354, 0)
+Login.Size = UDim2.new(0, 523, 0, 198)
+Login.Draggable = true
+
+Title.Name = "Title"
+Title.Parent = Login
+Title.BackgroundColor3 = Color3.fromRGB(83, 83, 83)
+Title.Position = UDim2.new(0, 0, 0.0303030312, 0)
+Title.Size = UDim2.new(0, 523, 0, 50)
+Title.Font = Enum.Font.SourceSans
+Title.Text = "Login"
+Title.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title.TextSize = 36.000
+
+Enter.Name = "Enter"
+Enter.Parent = Login
+Enter.BackgroundColor3 = Color3.fromRGB(48, 48, 48)
+Enter.Position = UDim2.new(0.307839394, 0, 0.74747473, 0)
+Enter.Size = UDim2.new(0, 200, 0, 50)
+Enter.Font = Enum.Font.SourceSans
+Enter.Text = "Enter"
+Enter.TextColor3 = Color3.fromRGB(255, 255, 255)
+Enter.TextSize = 49.000
+
+keyhere.Name = "keyhere"
+keyhere.Parent = Login
+keyhere.BackgroundColor3 = Color3.fromRGB(83, 83, 83)
+keyhere.Position = UDim2.new(0.105162524, 0, 0.373737335, 0)
+keyhere.Size = UDim2.new(0, 413, 0, 50)
+keyhere.Font = Enum.Font.SourceSans
+keyhere.Text = ""
+keyhere.TextColor3 = Color3.fromRGB(255, 255, 255)
+keyhere.TextSize = 42.000
+Enter.MouseButton1Down:connect(function()
+	check.MouseButton1Down:connect(function()
+		local key = keyhere.Text
+		local userid = game:GetService('Players').LocalPlayer.UserId
+		local url = "http://YOURWEBSITEHERE.COM/index.php?key="..key.."&user="..userid
+
+		if game:HttpGet(url) == "~ True ~" then
+			check.Text = "Whitelisted"
+			wait(1)
+			keyhere.Text = "Checking."
+			wait(0.5)
+			keyhere.Text = "Checking.."
+			wait(1)
+			keyhere.Text = "Right Key!"
+			wait(2)
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/DarkManee/Mane-Hub/main/master"))()
+			Login.Visible = false
+		else
+			keyhere.Text = "Invalid key"
+			check.Text = " ~ Not Whitelisted ~"
+			wait(1)
+			LoginFrame.Visible = false
+		end
+	end)
