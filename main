@@ -1,1 +1,1702 @@
-local S=(function(n,e)return(n*e);end)local r=(function(n,e)return(n==e);end)local e=(function(e,n)return(e..n);end)local e=(function(e,n)return(e<=n);end)local Z=(function(n,e)return(n+e);end)local f=(function(e,...)return e(...);end)local e=(function(n,e)return(n>=e);end)local e=(function(n,e)return(n/e);end)local e=(function(e,n)return(e<n);end)local Q=(function(e,n)return(e^n);end)local z=(function(n,e)return(n~=e);end)local M=(function(n,e)return(n%e);end)local e=(function(e,n)return(e>n);end)local W=(function(n,e)return(n-e);end)for n,e in pairs({(function(d,...)_5d1d73a28737a00c="This file was obfuscated using PSU Obfuscator 4.5.A | https://www.psu.dev/ & discord.gg/psu";local T=_5d1d73a28737a00c local k=d[((961612240-#("fuck u dogix")))];local b=d[(77800829)];local xe=d[(906539624)];local p=d[((#{731;24;44;780;}+892457469))];local oe=d['ZYZF381q'];local te=d[((180610767-#("coca cola espuma")))];local de=d.Yj7OBDVps0;local x=d[((561005488-#("Elysium over all")))];local Y=d['GjNjXX'];local ie=d[((#{}+928723279))];local s=d["yQoA1"];local t=d.xTpmCGZh;local j=d.P7uN8mprM8;local o=d[((#{}+771209828))];local ce=d[((#{61;(function(...)return;end)()}+180781997))];local O=d[((#{178;75;(function(...)return 80,407,...;end)(430)}+455926476))];local ae=d.DOlyiAmH;local c=d['npLVzyl6CE'];local l=d[(301939803)];local P=d['Ebk56sEX'];local E=d[((65883129-#("colb is a hottie")))];local n=d[((857994966-#("I am utterly appalled by the fact that men can imitate woman to the level of almost no distinction")))];local D=d[((#{(function(...)return;end)()}+267000113))];local fe=d[(515023277)];local le=d[(414301264)];local F=d[((#{895;702;816;483;}+884237026))];local B=d[((461667780-#("perth is a n-n-n-n-n-n-n-n-n-n-n-n--n-n-nice guy")))];local U=d[((#{458;(function(...)return 295,297;end)()}+902088524))];local ne=d[((#{448;145;184;803;(function(...)return 506;end)()}+657617656))];local R=d.efOH3yN;local J=d[(173706684)];local v=d[(579780732)];local X=d[((#{535;11;785;(function(...)return 912,218,...;end)(965,367,338)}+624258985))];local _=((getfenv)or(function(...)return(_ENV);end));local i,u,e=({}),(""),(_(n));local x=((e["\98"..d[E]..d[c]..d[x]..d[Y]])or(e["\98"..d[E]..d[c]])or({}));local a=(((x)and(x["\98"..d[P]..d.jItsUR9HNN.."\114"]))or(function(e,x)local n,o=n,t;while((e>t)and(x>t))do local d,a=e%l,x%l;if d~=a then o=o+n;end;e,x,n=(e-d)/l,(x-a)/l,n*l;end;if e<x then e=x;end;while e>t do local x=e%l;if x>t then o=o+n;end;e,n=(e-x)/l,n*l;end;return(o);end));local h=(l^j);local y=(h-n);local g,I,w;local h=(u[""..d[b]..d[U].."\98"]);local C=(u["\98"..d['sVYgtE7HbV'].."\116\101"]);local q=(u[""..d[D].."\104"..d[o]..d[F]]);local u=(u[""..d[O].."\115"..d[U].."\98"]);local u=(e["\116\121\112"..d[s]]);local m=(e[""..d[c].."\111"..d[p].."\117\109"..d['WxQexp']..d[s]..d[F]]);local L=((e["\109"..d[o].."\116"..d[k]]["\108"..d['oEbiAtp']..d[s]..d[P]..d.jCaIFPRGN])or(function(e,n,...)return((e*l)^n);end));local V=(e[""..d.jCaIFPRGN.."\99"..d[o].."\108\108"]);local G=(e[""..d[b].."\101\108\101"..d[D].."\116"]);local ee=(e["\112"..d[o].."\105\114"..d[b]]);local N=(e["\109\97"..d[c]..d[k]][""..d[R]..d[B].."\111"..d.jItsUR9HNN..d[F]]);local K=(e[""..d[b].."\101\116\109\101\116\97\116\97"..d['WxQexp'].."\108"..d[s]]);local u=((e[""..d[U]..d[p].."\112"..d[o]..d[D].."\107"])or(e["\116"..d[o].."\98\108\101"]["\117\110\112\97"..d[D].."\107"]));local U=(e["\114"..d[o].."\119"..d[b].."\101\116"]);local H=function(l,n,e)return e+n or l*e end;local U=(e[""..d[b].."\116\114\105\110"..d[O]][""..d["o1dNI8MOf"]..d[o]..d[c].."\99"..d[k]]);g=((x[""..d[B]..d[b]..d[k].."\105"..d[R].."\116"])or(function(n,e,...)if(e<t)then return(I(n,-(e)));end;return((n*l^e)%l^j);end));local b=(x[""..d["WxQexp"]..d['jItsUR9HNN']..d[F]])or(function(e,n,...)return(y-w(y-e,y-n));end);local y=(x["\98"..d[p].."\111\116"])or(function(e,...)return(y-e);end);w=(x[""..d['WxQexp']..d[o]..d[p]..d['oEbiAtp']])or(function(e,n,...)return(((e+n)-a(e,n))/l);end);I=((x[""..d[F].."\115\104"..d[E].."\102\116"])or(function(n,e,...)if(e<t)then return(g(n,-(e)));end;return(N(n%l^j/l^e));end));if((not(e[""..d["WxQexp"].."\105"..d[c].."\51"..d[Y]]))and(not(e["\98"..d[E].."\116"])))then x[""..d.WxQexp..d.jItsUR9HNN.."\114"]=b;x["\98\110\111\116"]=y;x[""..d.WxQexp..d[P].."\111\114"]=a;x[""..d[B].."\115\104\105"..d[R].."\116"]=g;x[""..d['WxQexp'].."\97"..d[p]..d['oEbiAtp']]=w;x[""..d[F].."\115\104"..d[E].."\102\116"]=I;end;local b=(e["\116"..d[o].."\98"..d[B].."\101"]["\99"..d["jItsUR9HNN"]..d[p]..d[D]..d[o]..d[c]]);local l=(e["\116"..d[o].."\98"..d[B]..d[s]]["\105"..d[p].."\115\101\114\116"]);local D=(((e[""..d[c].."\97\98\108\101"][""..d[D].."\114"..d[s].."\97"..d[c].."\101"]))or((function(e,...)return({u({},t,e);});end)));local l=(e["\116\97"..d['WxQexp'].."\108\101"]["\114"..d[s].."\109"..d['jItsUR9HNN']..d['pECRdk']..d[s]]);local c="\58\40"..d[oe].."\100\43"..d[le].."\58";e[""..d["WxQexp"]..d[E].."\116\51"..d[Y]]=x;local e=((-xe+(function()local d,e=t,n;(function(e,n,x,l)e(e(x,e,n,l and n)and e(e,n and x,n and e,n),n(l,l,x,l and e),e(e,x,e,x),e(l,n and e,x and l,l))end)(function(o,a,l,x)if d>ie then return o end d=d+n e=(e+v)%te if(e%ne)<=ae then return l else return o(l(l,x,l,o),l(x,l,x,o),a(x,l,l,a and a),l(x,x,x,a))end return l(o(o,o,l,x),x(x,o,x and l,a and o),x(o and o,o and l,x,a and o),l(x and a,o and l,a,l))end,function(o,a,x,l)if d>X then return l end d=d+n e=(e-J)%ce if(e%de)>fe then e=(e*(210))%(20918)return a(x(l,x,l and l,a),x(o,x,l,x),x(l,l,o and l,o),l(x,l,x,x))else return a end return l end,function(l,x,o,a)if d>((#{(function(...)return;end)()}+169))then return x end d=d+n e=(e-((287-#("pls daily"))))%((#{}+7839))if(e%((789-#("You dont get it, I was born when I was only 1. It was traumatizing so I cheated on you."))))<((360-#("c++ or c#")))then e=(e*((1025-#("nigga"))))%((#{713;773;(function(...)return 80,891,352;end)()}+44332))return o(l(a,o,l,l),a(o,l and l,x and l,l and l),l(o,x,x and o,a and o),a(a,x,x,l and x))else return o end return x end,function(o,x,a,l)if d>(408)then return a end d=d+n e=(e+(597))%(31703)if(e%((1334-#("poop sussy utilities"))))<(657)then e=(e-((555-#("wtf"))))%((#{322;(function(...)return 201,898,211,778;end)()}+22419))return o(x(a,o and l,l,x),a(x,o,l,o and l),x(x,l and o,a,o),o(l,x,a,l))else return a end return x end)return e;end)()));local l,x=V(function(e)local l,x=e()local e,o=l(e(m),x)local l,e=l(H,t,nil,x)return m(U(e,c))-m(U(o,c))+n end,function(e)if e then return function(e)return e()end else return V,''end end)   local o=(#T+((193-#("dont use getfenv its a virus"))));local c,E=({}),({});for e=t,o-n do local n=q(e);c[e]=n;E[e]=n;E[n]=e;end;local p,x=(function(l)local d,x,a=C(l,x,(3));if((d+x+a)~=((262-#("belo pau amigo"))))then e=e+((209-#("oh laud he comin")));o=o+((153-#("What the fuck is the task scheduler library")));end;l=h(l,((8-#("pog"))));local x,d,a=(""),(""),({});local e=n;local function f()local x=m(h(l,e,e),(36));e+=n;local n=m(h(l,e,e+x-n),(36));e+=x;return(n);end;x=E[f()];a[n]=x;while(e<#l)do local e=f();if c[e]then d=c[e];else d=x..h(x,n,n);end;c[o]=x..h(d,n,n);a[#a+n],x,o=d,d,o+n;end;return(b(a));end)("PSU|23n1210276277122752771014142761111101D1d27727g1021721627h1027M21h21G27Q27m1K1K27b2771717101M1m27621w2271b2762241z1C121d21O21o1d1o1S1N21722w21d27622w1S27c132211L10223151J1P161C1F1B2231u27621Z1I171a171S171l1H1022M22528D21u21Y29A111T22e22m1O1o22722C1e1S21W23d2261A27621V2171D16181217192211026k25L289102212131o1N1d151D21W22329w24U25V27e1023B1m181t235131627621222b161m1n22723d21V2821022e21r1Q1q1b1e1922o1d1827623i22M238212171G21x22M21m2A0276230131e151N17161R2a91Z2BA27622828h28j1n1122k2152b11022D2122b621N2191w2882A22a42a62a82aA27621S21A21s28p28r1428T28v22L1j1M22h2211e1T1S1t1N1n2B51N1H1c111q1h1b1Q22i29j1221U22Z21128Z2122182931022222q2Dx1b22022T21p1N22521U1C181721T2e92991h1n21i21S2aT22c21d1T1C26V23o2bb22021O27c21j1y1H26k2422A11021Z2eW21321i1n141V1A1623T26D192cr2a52a72A922126q26426K2681C27622a21n1E1f1S22c22z21A1S22G27623X24s27z26826725823r2at22v2911824Z25y27Z26O25r27325c27F27h27J27L27h182Bm2761X1x101R1r27i1D1i1627Y101918111X1W111F1e2H61F1I1r2fD101w1Z1311121321021127Q2H4111R1q2Hn2H52Hq111A1A1i1J27Q1w1Y1227m1U1t132761I1n152761W2101427h111U1R2ib27R132i32iM15152gX2gz191A131X1Y131f1C2c02h82iM2Ii2ik1114152102132i71024K25l231276216215132811J1J2gI10181b2jB21d28H1615131g1G1I1M2aT2It131I112jm2he2IE27M172D22jN2JP2jR2JT2jv2792JZ2k12iu2k42k62iD2IF27H2Ka2jb27M2kD2762Js2A52jv1b1b2kI2762K22kL2iC2k82kP2kB27r2Gm2JQ2ku2Kf2jW2jY2k02l12kK2K52l42ko102kq2Kc2lA102KV2jU2im122l02H02Lh2Km2l52LL2L72kS2lo2Lq2Kx2kz2lF2Lv2K32lI2K72Lk2Lm102lU2l22M92kN2k92M02l92Ke2kW2lD2Me2lW2lj2mI2Kr2mK2lB2Mm2kH2m62mf2lX2mB2Mj2jO2M22LC2Ky2mo2M82mz2MR2LN2mL2Lr2jX2N62L32Ma2n92L82N22NB2kG2LT2MX2mp2ng2L62ms2nJ2mU2Lr2N52nn2n72mq2nQ2Na2NT2jV2nd2NW2NF2mH2nZ2nI2kt2LP2LC2Mw2KJ2nX2nP2lZ2Nr2O92m3132KY2M12NK2k31I1I1q2Go2l22gY2L11d141X21114293141e1E1I1u2fn2He21216112c41M1i2aT27M21A2192Nr1h1I2jb2nE29e2NY2og27f27R2oI21J162lR1h1h1325825B2761S28r2Om2O12mn2o42MG2ly2MC2q52OA2mv2nm2Od2O52Qa2n12oi2n42m52qG2Q92N02oh2n32mM2O32qn2n82O72Qc2OJ2Oc2LG2Oe2O62Pq2o82QR2Nu2QM2R02QH2qp2I82q82qv2R32QX2Lc2qT2r82Qo2Nh2rf2Qe2nE2Rj2qW2MT2QD2r62rn2rD2Qb2rq2oj2rH2M72r92rK2rW2oB2qf2rI2rU2QJ2r52M42RT2Pp2rV2Ns2Rr2o22le2qu2sB2S72oN2Qz2rZ2ro2rE2s22MM2Ol2Sp2lr132k32RC2Si2KR2Ps2m22pu2PW1H27w2gZ1021H21H1026t26T27621a21A27b25C24o21423L25d2tf2441k1O2FY27Z1024t24u2Jb2371A1n26U2Ez2762EL2EN21J2182sU1T21t23B2ej27622F21E2h124Z2611E276236171r21D2181M2B5171N21m21f1p1K23X26j2bB2361n1K141G1m1724826g2aT2311c1L1S24Q25k2f0231121b1d1F1v1U2hB1T26624l2Go22v1229G1h141c1u22x1t2bB21X2171f2c0191126F23q2iK22d1H2191422n26O25m2Go21U1z12181r1h2wK2321E2AF21u21c2F61a2OY16171q1723A2bl27622u1J1r1d1n1t2pa23M2uw27622i21h122931c1M21J2cq1022b2132C52A921d21j1d1p1G26F22723s1t21L23Z1522923P2712wg2U02eM1c21321M1j1v22O1k29G102251y1q2b521321J27h1R1122n23621B151A181522Q2p72AH1O1p2p221I2F5141J1N1S22w2ci22X171T2B6162321Q27723m23M27z2211923M25V2yG2352V12JX21M21c1121D2171H19191l1v2X92322ak2762391R1u121T2WM1628L21k1i1s24r25I2AT2aV2AX2321j2hd22s11291310C1P151924N310l27622621B2EA21o2211g2762wI2Wk2v91T1Q1R1A2132u4132u624w2eQ27622X1Q21821p171h1l21k2292GO21Y2yT192142141m2uK22c27k1022r2792vh21m2191N2vA1d12162232te27722G26025c25F23W1f27623b151R1t1h21M21O1f151p1I1d1E2d61a22y2AT2382wx1G23j1v2Ik22u2IU101t21722728531262Eg1429f21m2um2UO2uq21l2X52X72X91123M26B312P1022a21J2vA2yu1229F111y21b2Yp172321K2Ug31261b191f19121g15310f2xT2V221622n2Ci2202wc28i1S21c25321e21f1G211121J26t22923h2k62vr1H2172171s1Q2F61521n21I1D112DN1T1T1d26Y2W8276237131H1M1p21J21u2GU1021w1X2jJ1K1P1O21j217310221321629b1H1821A31691l21D21F1J2dN1724X25n2hd2cB314w1N21H21E1S25G24r2ci21V1521G1j2Ea27124D2ik31621628E23K26N2jb2zC1q24J2672Wh1z2jz21h21D1J1626124N2f0311x1r2EH2Z52Z722L2CH2762202151F2yV310y25Q2p72Yi1B1H1P1921I21C1H1r2Z224I2Gc27b2ge24224j314f311X29a3149314B31681115181W2242GO2ah2vZ1l1f2A52222142bb22Z29W1h2X71N2222162Ik22T1n313G1t24w25J2ik21y31722EA23J314E2Fo21J1b1a111N1x21I29g2vz191k23A1T1o27622B21M142z11d1l313W21O21f2am1s1621r28c28E1921821924M2vd31A621o2wz1h1621i21e1F1t2vY2bB2El319G1J2EB102312Jb22v2JP23i1M2p722R2VH2ct1f172Al1V1J25k24O2Ik315a1j1423d310Q312q1o1T3166315U312f27124531252222112Wx2wZ1W2z52F8161b2zC27622P1f1Q1T2gn1426M23V2gO2392DG1M151L1l24j25f27q21326o2642AF2372uN2v32uq21O28e1026N315r1021T21E2832eX24c31371t2yV25i24m31CZ1M31Au315G1b2HI1l23g2X2102el310131032X92351c2HD2u11c21K2pI2a926n2G62762wA2Wc21U319d31a621N2821r2352yf31a621E1O21G31212md317921J21j2v02V22WY22Z2Ik28b181E2eC31952CA2cc28k2cf1y31252312132112tE2W21h21I22q315N1726o25S2bB312h1S313P31dO25K2tt315s310F21n22M2BB22e21F310f312T21t24r247314031Du31023104162F42f631c926e31cl317Z21P1o292310T1d1A31eV2762381l2W41X2wa276315A1s1127K315L310B1T1v1L2dF1d22F312I2CW26726724S2xC1022u1K1T1221r1l1526224E2CI31622bs2Hq316o2hd21U2191B1t21R215312u1622O2J62Y72eN26V23t2f022u1F317T1m1q2bi319221V2U42fo21f1O23g102IK22C21231B4151231Gk102W12dl1n26I2442P722w282141D313U2X82Pa26U24a27A22n1O22M1p27Z2201823331F62a221i2821N2DN2Ev2Ea1n1j21K22k31Ij317J101B22z31dZ31Cd1K2hP1s2c62GS25225H2bB31d031G92f92712402Go31Be310217315u1C23B313c27622e2Xs2xu22228C2u031js1B21p31C831k831de2762w11r1O21U31F11031bp2vg1O26221X22122v21K24w24K21o26g25V2Fc28621I317N10162W425K31Dj276234310C310E310g310i25H24x25825k22x24k1n22O26K31Le2ek21N101326S2412hD2202131v1031h021c217172162C931262DJ31Jt310f26124p2aT22q27k1325D24g31252262zZ1331bv1p2dw28z1e1N23B2If2761a23t31e731Ha31I61n319P314F22621n1o31Bh319w21I31Es31BF313B2Ik310S2uP1i21Q22L2G72G924Y31fj2A22182DD1y316v21921u316Z1Y31Jm1j25O24i3140315a162d62Or311S31cR2w426E31ND2A331022322dm28a21L1k21e319Y313g2A91k24k31o1102zC2Eb2fN1222y31jW31D91y2X81V312C2t323I2vZ31i01C21I312B26z31I331gr2VS2bg2z61N2v321922831e031kQ21321318192172bX31412131r31ks31K731Hx2B031cd182p01d1r31k32bB31OP28V2t324L2tk27B22X21524725j31172cJ2cl1n21n2131U151131g82F72f9310z31371d310226F2Zl27726823Z21B1P22a2Af2F21H318s318U2B61b24S25G2CI2372c42C61923h319Q31l22vS1n31mn1b310F313W1T26o311l1031op314j2I323Z25m21426k1q21Q25i24824g26g2662hd21t1y31lK2852DC1B22R31AH27623231Ky31NM22l1x314f31RH21c1x1M1G31CA1a1531Cf1724f26h2ik31LQ2c61q318h27B25s24P21l142252Hd23b2eF1S2Ea1e1H2612582yg31I5317T16312Y2YV1f112PX31fy1T26I23z319g1021y1z27g31jN1D315I1i2Cn2DE2102T82c51B2ce1h23j31PH2xm213311S31MF1123S26i2CI31OG1n1222q2wQ28A31ak28F31F31N24926J27Z2231B23321o2K631d0315B315D315f2J7315I315k315m315O1N22U2wh31hR1T21Q21q31Hs25431p22uY2V031k01n31GB2gO2f21A2wK31AU1B23G31hZ1022821d2Va24q2aE2762AH31qy112cN181F310f23231BC31aR311d1A21j31kT1626w24C23323i31Qs311X151O2EG31rs1y2W22W41121p31nx31a62yB1V21o22I2Jb22121m21e24631sK2uA315J1721K1Z28V1124z31CY27622r1H1J2hb1R2B631pr26o31r927721X1523M31K429721H2z731041D24527031Qs31272VG1D21M31JH2aJ2AL2aL29F26E23s2Af31e131r131C931C32f031RH31z12f921o31rF319r2a72WM1w316K2DN24831h922A31fX2OK2i725731Xr2XM318D319G1b215316V25a25G2k62uI2uk313q31D221M313t2x631j227H31iP22b21N2Hp162Ey31Z4316v31yR31q821O31Xg2XM21I313n22j31id31Ub191p2b42JB22T1m1324Y31102AU1M1j1S21j314S2UH1J31821b1223l31UZ2972122ea31AN1W31Q331bE2fF2xG310t1o1w31Fu31gr2jP314K31dO23t31tc31Lp1j31D524U31Wk1031Nj31NL2up31Zd31S827131hJ31f2316s1S31vT28A2112fR2Dc2a924w317H31Po2eg1H2DB1024f31h931v11B1o21e21Z2jB2341s1U23B31P931oP2jL122dH1N24e269312522821R31C51731c731Q824y31zN2FP322C21F21h318f26Q25a25N1a26A2272571C26022922t2Af2bd1R2Pa1K1d21l31qU2672Vp31Wl2131Q1y31kl1G21o31JQ27631C31D21721923I310731b61C1a1E21m214312S1t31gN2bI21o321231MM31gu31461Q320621N31R61024U2Y61031Vj31Oy31A123a192P72372i931732zD29E31922Fa26c31Cm2DG1631r61l271246314f2Ws1r31WQ21P2CL181O21121f315O23431qA31S6311H2U621531kI31dt21P31a4191x322S31SU2kz2Uy1i31A621k1a29F31bi31331m21g28h1l1I1931GY21521t2iK31Y2314H1422j31Pz31gL1r29d2xp1924W25T2CI31WG2z72dN31QG31kJ31fX1N312t21S22Z324C31wF21D31T922k2112F031eX21g31wZ1b22v2Hd22E2IF31Wz2BK2go3237315E315N2pA313627B23K25k1831Qq31Qs22031Ge31gG325n21i21P2gS210317m162351L31qs2yi2Yk1M2yM2yO2yq2392172z123M2fM321A2eA2z4319Z31Oz2172TP27721U1221X31v51028b28d1D21R318D318f1426k325R31Za122Wm1z21F3203313w25525i2yG3142314431w9314721j31Q51T317n12324U31rp2UN1H2UJ22Z31ii2X331BI1V1m23t2v627621y2152dk21922b2F031e121i2YN2GS313x3235311831MI31t72W431zd316l1q248321S2YH2yj2b5321R31ij21D2vv1u23A3264327019141r26V3225313L2F629F21o2202yg31vJ31gt31gV1B31Gx31GZ31H126Y23u2hD311n21831D431YP1123z26122X1k2271722q25326l24R2452Ig2Gj3125102792772HW2mD22122j2IC1X27G31An21521727A1i21r2192ic2Hg1I26Z26h2LJ313131me2HE2112IQ22i2202iC2p91I21F2GR2HE213171i21L2172ic214181i1L2bB1w215191i22O2362IC316C1I1K2CI1W2172kz25924V2ic2181C1I1B31jA2He2192gW26926R2iC21A2P424Y24g2ic21B2hA21D1z2iC21C2jy24N2512IC21d2pK26A26o2IC21e2op23v2492ic316k1I182ZI2he21G1k1i21g2122iC21h326t25n2612IC21i2PD2Py2IC21J1n32Dv32Dx21K1o1I21U2282iC21l31301x21f2ic21m1q29928v2hE21n1R1i22G2222IC21O1s1I25u2GH2hE326b31nV2182Ic21q2VL23p2472Ic21r1v1i24P2572ic2hE1i23323H2IC2H31i24j24X2Ic121y1i22821u2ic13317j23z24D2iC142101I25z25h2iC152111i23h2332Ic162121I23231Ih2he172131I24W24I2ic182141i2132t82hE192151I26s26e2ic1a2161I24D23z2Ic1b2171i23O2462ic1C2181i1t31401w1d2191I25f25T2iC1E21a1I26U26c2iC1f21B1i21a2Et2hE1g21C1i23m2402iC1H21D1i21z22D2ic1i32fa23c22y2IC1j21F1I25424q2iC1K27u27t1Z1x2i3111i25l26332d42k331aY32D924a23s2IC32dd1i23y24c32dh16326u31601w32dN1I23K24232Ds32dU21121j2iC32DZ1I21921R32e42Hx25T25F2IC32Ea1i1p2aF1w32eF1I23N2412ic32EL1i23622O32Ep2p422921v32EU2HA21i21032eZ2JY26W26i32F42PK25k26232f92oP22322H32Fe31Y42or2IC32fk1i24u25832fP326t21j21132fU2pd2222TP1w32Fz1I25x25j2Ic32g31i23t24B32g8313023w24E32gD32GF25W25i2ic32gj1i21s22a32go32Gq25S25e2ic32GV25524r32GY2VL23G23232H332h521Y22c32H91W1I23b22T32hE1x310i314F1W32hK31ui21532hP317j24823u32Hu32hW24g24y32I032i226T26f32i632I824223k2Ic32Id1I26425q32Ii32IK22h2232iC32ip1i26225k32iu32IW22e21W32j032j225p26732j632j824h24z2IC32Jd1i21b328L2he32Jj1i22022i32jO32Jq26826Q2ic32JV1i32Fx2HE32K11i314L32K632FA24v25932kb32KD26725P32Kh32Kj21G32Kl2792LT22u23832kS1I23q24432d926325L32kY2iq2Ia32l31I26o26a2iC32l824l25332Lc1i23023I32lg32E027326L32ll1I22W23E32lP2kz22422m32eE32eG24323L32lz2Gw21o312i1w32Eq1I22y23c32M81i24x24j32MC1I24i24W32MG1i25o26632Mk1i21421m32mo1I24031R91w32Ms24e23W32MW1I23S24a32n01I23422q32FY32G023123J32n932G423922V32NE1I24R25532Ni1I25224k32nM32gK25324l32NR1i21531m632Gu1t1i24723p32nz1I24M25032o31I23A22s32O71I22722l32Oc1I26y26g32HJ32hL21H21332oK1I29W32oO1i25c25U32Os1I23J2jF2he32i71i25024m32P032Ie27126N32P51i23E22w32P932iQ1W31dB2hE32IV1i24Q25432Pi1i1Y21C32PM1I21621k32pQ32jE25h25Z32Ji32Jk23722p32Q01I24523R32q432jW25j25X32K032K221P21B32QC1i21w22e32QG1i25q26432qK1132Kk32Km2Su1i22K22632Qs2P632d925v31Qm1W32kz22x23F32R221221g32r632do25824u32ra22v23932Re1i24K25232RI25r26532rm1i27026M32Rq1i26625o32RU2pL2yG32RY2P423i23032s326125n32s72OU2he32F51i24623O32sF21E1w32sJ21X22f32mR32Fl22m22432sr22c21Y32sv32JY32SZ1i1Z28O2hE32nA23r24532t722t23b32tb24Z24H32tF1I1v31251W32gP1I25M26032NV32TO25624O32TS22l22732tw25e25S32u022J2aB2hE32HF24S25a32U81I26b26p32uC22A2cz2hE32hv1I25i25w32UJ22B21T32OW1I1o2F01w32P124423Q32uw25y25G32V01i23f22x32pE1I23D32ae2HE32j11i324O32vD2HC32vh1I24123N32vl1I24T2q12hE32jP1I24b23T32vt1I24o25632vX1i25A2g132ha32fA22F21X32W525D25V32w932wb1227d1i24F23X32ks2Hi32hq32KM2iP27m1L320T2i821021I2Mq27r2j4331Q331S2p81623n22T32IT1021C21G1425z32VK2mD32mm2L111181X2152Wl31B4284331J1u1N2hd1I21T22B32ri32mi2l12vg2oq2Os151C1x2191C317T1C2582581i331R32rU112IM13313227F2H72102142p73338310C2Di1C2DJ27h311G2Af1i22d21z32RQ315l319U319T333k333t2112192go23N22c332821G21c1426F32ov332932Mn2H02oW2oY32BK1v1425R25r332j2IJ2I822Z23d32l32PB162111x2at32vE32vG334B2ox2Oz1r334f332732TT32TV32dC31qz333M1z334t32vF2L11C151X210312s31qY335132Tl334O333M1Y2ik334u2L131Wr1x2xO312t16335122n22532wT27m2131X2ci335N2h031eZ1x2br327617335127226K32Lc335Y32zy2I833592h0332C332E332G18335132tQ32re335y21b2GO32hB32Hd2h02H01X2141932gK1923I23I1h25m2632121Y1431012UL2X9132Y2229337333751Z15331E32Vv2l1336V336x336z22K22k1I23X24F32ri337S32x7337v2HE32EF31gU1c2102192Hd1H1F1u212337H31012p52p72Fd326D337n326u335126E26S32Ri1g27a32E92kZ21k21632xb338l33371c1D3382338426p2683388310X32e032wi336u338E336y338G25Z1I338s2HE32e521c31SN2HE32lq339A32lU32Eg326j338t338v33832761H25424P3390337921S23531lL1524N24N337A2b11625Y25Y337f2121W2jU2iQ337k3394336w339619337P2hY2I032E52hZ32X733aJ337Y2Dj1D3381339n103385338733A7338A3393338D33ac336z3351339h32E5339H32Lq23L243338r338M32el11338u338w339O338Y33a61633av338c337m33ad33b0338M339c339e338n3399338m32Lv1A31a532EK315k33bb33Aq339P339R33au32E032o1337L3395336z26j26j33Ay326u31VX1h26Y26j33BF33792323212162292291i33aA33ax338f33AE337Q24C23y32RI33CS32X733cv33aM338033BC33AR1L1433cF1921d1Y31LJ1626d26d33a02Pb22r31y233742121x172ip33CM32Vw33aB33cP33af23822u32rI33DQ32X733Dt33Cy33Ao33D033aS33dh2A9339233bi33C533971I22P237338k338m32lq26025m33B7339l33dY33bE33Di33BH33C433c91933BL32Ri24923v32x7339h33bs33Bu1w33b933Bx3384339Q33E0338A33c333DN33ad33c733El33cB33cd33F033d533Ch2PA1733dE33DL33Ek33dO33cr33cT339b2Hx33cX33bP33Fm337Z33dx33bY33d233f933d6317n2pB26926933A01E1821L21L33a521A2YW33a933Dm33co33Ad33AF33aL1W33aI2I032lQ33gc33fP33aP3384338621233g533EJ33f333AZ33982mD33E932x722Q23433eE33BV33bA339M338x338z33GN33E233FG33bk339833b12HX23u24833er33Br32eG33Bt33EF33By33eZ33h31i33f233G933C633c833CP33F733CE33H321D33fb33g02DE33Ff33Gp326u33AF33FM32e533Fm32lq33fo33aN33GJ339O33Fs33hS33d71633g024t24t33652uj326u26b26b33AC31wR1923A23A2WX27Q313032162752Gn31II31Qz1A1b2112182hD2t4277"),(#T-(90));local function b(n,e,...)if(n==886567223)then return(a(((e)-346542)-345353,119999));elseif(n==856960571)then return(a(a(a(e,63112),590855),900195));elseif(n==962396014)then return(((a((e)-56125,926335))-331228)-919932);elseif(n==823896064)then return(((a(((e)-424984)-350846,840067))-659441)-337681);elseif(n==708093415)then return((a(a(a(e,989431),170692),298508))-411656);elseif(n==469957448)then return(a(a(((a(e,573217))-4217)-233797,181845),168615));elseif(n==653925980)then return(a(a((a(e,150181))-544416,657480),898407));elseif(n==801513499)then return(a(a(a((e)-551010,415049),709600),54141));elseif(n==272577292)then return(a(a(a(a(a(e,675382),905497),96983),732620),567782));elseif(n==710588065)then return((a((e)-74855,37177))-575877);elseif(n==835196196)then return((((a((e)-631880,685903))-548425)-372909)-791677);elseif(n==457910230)then return((a(a(a((e)-695193,410843),4826),579667))-628700);elseif(n==873801378)then return(a(((e)-941108)-539025,223990));end;end;local function n(e,n,...)if(e==330051847)then return((a(a(a(a(n,844367),350480),46697),552614))-892281);elseif(e==220278468)then return(a((a((a(n,457043))-964796,604092))-962548,110652));elseif(e==503238776)then return(a(a(a(a(n,985097),372760),887679),393378));elseif(e==905456272)then return(a((a((n)-766770,440914))-940225,621618));elseif(e==887678213)then return((a(a(n,658805),71245))-469084);elseif(e==872804421)then return((a(a(((n)-167088)-623874,834018),19214))-220193);elseif(e==294629613)then return(a(((a(n,76998))-620767)-597741,2898));elseif(e==688075288)then return(a(a(a((n)-419255,207648),844242),780126));elseif(e==428013607)then return((a((a(a(n,497133),320753))-668051,22968))-206379);elseif(e==86787191)then return(a((((n)-986343)-623571)-289318,485087));elseif(e==479636757)then return(a(a(a(n,651044),393073),585115));else end;end;if _ENV then _ENV._ENV=_ENV end;local l=d[(857994868)];local o=d[((301939813-#("ok to what")))];local m=d['ICBwgF9xfw'];local B=d['X2QpC9eU'];local n=d[(94616467)];local A=d[((#{501;888;833;926;(function(...)return 387,458,369,315,...;end)(986,866,132,390)}+272121767))];local F=d['aENXwBB'];local c=d["xTpmCGZh"];local function t()local o=a(C(p,x,x),e);e=o%n;x=(x+l);return(o);end;local function s(n,e,x)if(x)then local e=(n/o^(e-l))%o^((x-l)-(e-l)+l);return(e-(e%l));else local e=o^(e-l);return(((n%(e+e)>=e)and(l))or(c));end;end;local function c()local d,l=C(p,x,x+o);d=a(d,e);e=d%n;l=a(l,e);e=l%n;x=x+o;return((l*n)+d);end;local function o()local f,l,o,d=C(p,x,x+B);f=a(f,e);e=f%n;l=a(l,e);e=l%n;o=a(o,e);e=o%n;d=a(d,e);e=d%n;x+=F;return((d*m)+(o*A)+(l*n)+f);end;local I="\35";local function P(...)return({...}),G(I,...);end;local function O(...)local b=d["P7uN8mprM8"];local i=d[((#{}+347098614))];local A=d[((301939842-#("psst, encryption key is F1b3m7A8k0z6F10")))];local O=d.O0bRJS;local n=d[(857994868)];local _=d.mIg913;local m=d[(94616467)];local k=d[(764932614)];local D=d['aENXwBB'];local U=d.Z7UVJ;local R=d[(619039862)];local G=d['nf4CGJ0'];local l=d.xTpmCGZh;local H=d[(608617286)];local B=d[(602775656)];local V=d[((#{193;227;57;(function(...)return 966,337,310,810,...;end)(30)}+302436141))];local F=d[((131261932-#("nigga")))];local T=d['UhcrwGqI9'];local Y=d['xgZRy6a'];local P=d[(937920132)];local y=d[(99719082)];local g=d.X2QpC9eU;local function w(...)local u=({});local d=({});local I=({});for e=l,o(e)-n,n do I[e]=w();end;local j=c(e);local w=f(t,e);for c=l,f(o,e)-n,n do local u=f(t,e);if(r(u%i,H))then local e=t(e);d[c]=(z(e,l));elseif(u%i==F)then while(true)do local o=o(e);if(o==l)then d[c]=('');break;end;if(o>V)then local l,t=(''),(h(p,x,W(Z(x,o),n)));x=x+o;for n=n,#t,n do local n=a(f(C,h(t,n,n)),e);e=n%m;l=l..E[n];end;d[c]=l;else local n,l=(''),({C(p,x,x+o-n)});x=x+o;for x,l in f(ee,l)do local l=a(l,e);e=l%m;n=n..E[l];end;d[c]=n;end;break;end;elseif(u%i==D)then while(true)do local t=o(e);local x=o(e);local a=n;local o=(s(x,n,P)*(Q(A,b)))+t;local e=s(x,i,G);local x=(Q((-n),s(x,b)));if(r(e,l))then if(o==l)then d[c]=N(S(x,l));break;else e=n;a=l;end;elseif(r(e,R))then d[c]=(r(o,l))and(x*(n/l))or(S(x,(l/l)));break;end;local e=f(L,x,e-O)*(a+(o/(A^T)));d[c]=r(e%n,l)and f(N,e)or e break;end;elseif(M(u,i)==A)then while(true)do local e=f(o,e);d[c]=h(p,x,x+e-n);x=x+e;break;end;else d[c]=nil end;end;local x=o(e);for e=l,x-n,n do u[e]=({});end;for m=l,W(x,n),n do local x=t(e);if(x~=l)then x=x-n;local i,p,h,a,E,C=l,l,l,l,l,l;local b=s(x,n,g);if(r(b,l))then a=(c(e));p=(t(e));i=(c(e));h=(c(e));elseif(r(b,g))then a=u[(f(o,e))];p=(t(e));i=(f(c,e));h=(c(e));elseif(b==B)then elseif(b==n)then a=(o(e));p=(t(e));i=(c(e));elseif(r(b,F))then a=(o(e));p=(t(e));i=(c(e));h=(c(e));E=({});for x=n,h,n do E[x]=({[l]=t(e),[n]=f(c,e)});end;elseif(b==A)then a=u[(o(e))];p=(f(t,e));i=(c(e));end;if(r(s(x,D,D),n))then i=d[i];end;if(s(x,B,B)==n)then h=d[h];end;if(r(s(x,F,F),n))then a=d[a];end;if(s(x,y,y)==n)then C=u[o(e)];else C=u[m+n];end;if(s(x,k,k)==n)then E=({});for e=n,t(),n do E[e]=o();end;end;local e=u[m];e["fPp9fNAi"]=E;e[U]=a;e['k0QC']=h;e["oYz"]=p;e["X5Tq"]=i;e['qohZiLG1G']=C;end;end;return({[-_]=I;["pIYer"]=w;[-Y]=u;["baTJhT2nAk"]=j;["N4MPe"]=d;["UTxWfOB"]=l;});end;return(w(...));end;local function C(e,h,c,...)local A=e[-820855];local N=c['\86\101\99\116\111\114\51'];local t=e["pIYer"];local n=e["N4MPe"];local r=e['baTJhT2nAk'];local x=0;local e=e[-752956];return(function(...)local n=(5764755);local m=({});local o="qohZiLG1G";local f='k0QC';local k="oYz";local F={};local p=-(1);local l="X5Tq";local B={...};local n=(true);local y="fPp9fNAi";local n={};local s=e[x];local E=(G(I,...)-1);local x=40688;local e=N and 1 or 0;for e=0,E,e do if(e>=t)then F[e-t]=B[e+1];else n[e]=B[e+1];end;end;local E=E-t+1;repeat local e=s;local t=e[k];s=e[o];if(t<=((i[769752004])or((function(e)i[769752004]=((a(e,321940))-95388)-261097;return(i[769752004]);end)(a(214870632,214905699)))))then if(t<=12)then if(t<=((i[709980541])or((function(e)i[709980541]=a((((a(e,789621))-924033)-269225)-881308,757940);return(i[709980541]);end)(a(635291397,d[155407424])))))then if(t<=a(637203205,d[155407424]))then if(t<=b(a(265180896,d[155407424]),1000503))then n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local i;local t;local r;local a=0;local function d(n,e,l)e=(a+e)%3 a=((e~=0)and a+((e<2)and-n or n)or a*n)%l return a end for o=0,30 do if d(8710,1783+o,2994)<1497 then if d(6476,9159+o,2360)<=1180 then r=e[i];if d(1452,6081+o,3680)<1840 then n[e[l]]=c[e[x]];else n[r]=t;end else if d(6755,1364+o,1148)>574 then i=l;else s=e[x];end t=e[x];end else if d(3435,4409+o,1598)>799 then n[e[l]]=#n[e[x]];if d(7316,8772+o,3334)<1667 then n[e[l]]=n[e[x]];else if(e[l]~=e[f])then s=s+1;else s=e[x];end;end else if d(5667,9717+o,2840)<1420 then else n[e[l]]=n[e[x]]+e[f];end end end end n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];e=e[o];elseif(t==b(a(214947423,d.YfYbDjH),1160488))then local o=e[x];local x=n[o];for e=o+1,e[f]do x=x..n[e];end;n[e[l]]=x;elseif(t<=((i[888654271])or(d[692743270](a(498612011,498364851),a,i,888654271))))then local d=e[l];n[d](n[1+d]);for e=d,r do n[e]=nil;end;e=e[o];n[e[l]]=h[e[x]];e=e[o];n[e[l]][e[x]]=e[f];e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=e[x];e=e[o];local d=e[l];n[d](n[1+d]);for e=d,r do n[e]=nil;end;e=e[o];n[e[l]]=h[e[x]];e=e[o];n[e[l]][e[x]]=e[f];e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=e[x];e=e[o];local d=e[l];n[d](n[1+d]);for e=d,r do n[e]=nil;end;e=e[o];n[e[l]]=h[e[x]];e=e[o];n[e[l]][e[x]]=e[f];e=e[o];n[e[l]]=h[e[x]];e=e[o];n[e[l]][e[x]]=e[f];e=e[o];local p;local b;local u;local i;local t;local a=0;local function d(e,n,l)e=(a+e)%3 a=((e~=0)and a+((1==e)and n or-n)or a*n)%l return a end for o=0,28 do if d(8416,9405+o,2728)>=1364 then i=p[u];if d(6958,9560+o,1570)>=785 then if d(3025,9108+o,2276)<=1138 then else end else t=e[b];if d(1029,1108+o,3672)>1836 then else n[t]=i;end end else if d(6083,1132+o,3258)<=1629 then if d(4413,8374+o,3292)>=1646 then else p=c;end else if d(6067,2384+o,3092)<1546 then b=l;else end u=e[x];end end end n[e[l]]=e[x];e=e[o];local i;local u;local c;local a=0;local t=0;local function d(n,e,l)e=(a+e)%3 a=((e~=0)and a+((e<2)and n or-n)or a*n)%l return a end for o=2,29 do if d(2951,5724+o,2154)>1077 then i=l;if d(5955,8412+o,3002)>1501 then if d(1586,1553+o,3138)>=1569 then if(n[e[l]]==e[f])then s=s+1;else s=e[x];end;else u=e;end c=u[i];else if d(7547,6809+o,2708)>1354 then else end end else if d(4652,8880+o,226)>=113 then if d(9733,8006+o,306)>153 then else end else if d(4715,9133+o,1096)>548 then if t>-1 then n[c](n[1+c]);t=-1 end;else end if t==-1 then for e=c,r do n[e]=nil;end;t=-2 end;end end end n[e[l]]=h[e[x]];e=e[o];n[e[l]][e[x]]=e[f];e=e[o];e=e[o];end;elseif(t<=b(a(384752956,d[155407424]),a(394313574,d["YfYbDjH"])))then n[e[l]]=#n[e[x]];elseif(t==b(a(951761797,208489138),811890))then n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local f;local c;local t;local a=0;local function d(n,e,l)e=(a+e)%3 a=((e~=0)and a+((e<2)and n or-n)or a*n)%l return a end for o=2,32 do if d(2209,3440+o,1458)>729 then if d(7078,8765+o,3234)>1617 then if d(4775,4949+o,2420)<=1210 then else end else f=l;if d(2705,8468+o,2006)>1003 then else c=e[x];end end t=e[f];else if d(1183,8216+o,784)<392 then if d(2999,5185+o,1392)<696 then else end else if d(3426,1537+o,3866)>=1933 then else n[t]=c;end end end end n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];e=e[o];elseif(t<=((i[69855807])or((function(e)i[69855807]=a(((a(a(e,942154),760187))-305989)-822270,646130);return(i[69855807]);end)(a(947013467,946646352)))))then n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local t;local i;local c;local a=0;local function d(n,e,l)e=(a+e)%3 a=((e~=0)and a+((1==e)and-n or n)or a*n)%l return a end for o=1,27 do if d(5412,9668+o,1310)>=655 then n[c]=i;if d(2785,9734+o,2032)<=1016 then if d(1945,9554+o,1466)<=733 then else end else if d(5052,7206+o,2032)>=1016 then else end end else t=l;if d(2972,2329+o,1976)>988 then if d(9541,4071+o,3114)>1557 then else i=e[x];end c=e[t];else if d(3524,3123+o,204)<=102 then else end end end end n[e[l]]=e[x];e=e[o];local i;local c;local t;local a=0;local function d(e,n,l)e=(a+e)%3 a=((e~=0)and a+((e<2)and-n or n)or a*n)%l return a end for o=1,32 do if d(3032,4261+o,2230)<=1115 then if d(5660,5155+o,1526)>=763 then if d(1744,9573+o,928)<=464 then else t=e[i];end else n[t]=c;if d(2738,7729+o,3544)<1772 then else end end else if d(7764,6386+o,2032)>=1016 then if d(2427,7009+o,1450)<=725 then i=l;else n[e[l]]=n[e[x]]+e[f];end else if d(7829,6681+o,2628)<1314 then else end end c=e[x];end end n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local t;local i;local c;local a=0;local function d(e,n,l)e=(a+e)%3 a=((e~=0)and a+((1==e)and-n or n)or a*n)%l return a end for o=1,34 do if d(6365,5066+o,532)>266 then if d(9970,9285+o,1904)<=952 then if d(6353,2625+o,1980)>=990 then t=l;else end else if d(3564,3913+o,2176)<=1088 then else if(n[e[l]]==e[f])then s=s+1;else s=e[x];end;end end i=e[x];else if d(5281,2189+o,3458)<=1729 then if d(3232,2686+o,3098)>1549 then else c=e[t];end else if d(7478,8005+o,910)<=455 then else n[c]=i;end end end end n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local i;local c;local t;local a=0;local function d(n,e,l)e=(a+e)%3 a=((e~=0)and a+((1==e)and-n or n)or a*n)%l return a end for o=0,28 do if d(6615,2477+o,2058)>1029 then if d(9998,2912+o,3348)>=1674 then if d(2750,1043+o,1782)>=891 then else end else if d(8430,9068+o,3258)<=1629 then n[e[l]]=e[x]-e[f];else end end else if d(7014,3345+o,3714)<=1857 then if d(8721,9927+o,1860)<=930 then n[t]=c;else t=e[i];end else if d(5846,4612+o,286)>143 then else i=l;end end c=e[x];end end n[e[l]]=e[x];e=e[o];local f;local c;local t;local a=0;local function d(e,n,l)e=(a+e)%3 a=((e~=0)and a+((1==e)and-n or n)or a*n)%l return a end for o=2,30 do if d(6944,6311+o,3312)<1656 then if d(5777,9647+o,1370)<685 then if d(3551,5077+o,2904)>=1452 then n[t]=c;else end else if d(2756,5224+o,2484)>=1242 then else end end else if d(3497,6252+o,2090)<1045 then if d(3454,6600+o,2380)<1190 then f=l;else end else if d(3539,7234+o,1844)>=922 then else t=e[f];end end c=e[x];end end n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];e=e[o];end;elseif(t<=b(a(38959923,d["W1VSdPcSR"]),282340))then if(t<=b(a(998761522,d[818135702]),a(374552347,d[384882784])))then n[e[l]][e[x]]=e[f];elseif(t==a(626917217,626917222))then local e=e[l];n[e](n[1+e]);for e=e,r do n[e]=nil;end;elseif(t<=b(a(540571044,805783208),352730))then n[e[l]]=h[e[x]];end;elseif(t<=10)then if(t==a(960641523,960641530))then n[e[l]]=c[e[x]];elseif(t<=b(a(472192912,124661830),a(580758026,579608391)))then n[e[l]]=C(A[e[x]],(nil),c);end;elseif(t>((i[284852357])or((function(e)i[284852357]=((((a(e,172961))-298134)-209166)-54735)-940976;return(i[284852357]);end)(a(827464071,d["W1VSdPcSR"])))))then e=e[o];local x=e[l];p=x+E-1;for e=0,E do n[x+e]=F[e];end;for e=p+1,r do n[e]=nil;end;e=e[o];local l=e[l];do return u(n,l,p);end;e=e[o];e=e[o];elseif(t<b(708093415,1000491))then local d=e[l];n[d](n[1+d]);for e=d,r do n[e]=nil;end;e=e[o];n[e[l]]=h[e[x]];e=e[o];n[e[l]][e[x]]=e[f];e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=e[x];e=e[o];local d=e[l];n[d](n[1+d]);for e=d,r do n[e]=nil;end;e=e[o];n[e[l]]=h[e[x]];e=e[o];n[e[l]][e[x]]=e[f];e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=e[x];e=e[o];local E;local b;local t;local a=0;local i=0;local function d(e,n,l)e=(a+e)%3 a=((e~=0)and a+((1==e)and n or-n)or a*n)%l return a end for o=2,34 do if d(8381,1623+o,3486)>=1743 then E=l;if d(8022,5588+o,3552)>=1776 then if d(2725,6055+o,1940)<970 then else end else if d(8855,6157+o,2666)>1333 then t=b[E];else b=e;end end else if d(6386,2711+o,2414)>=1207 then if d(3599,5030+o,3132)<1566 then else end else if d(5711,3354+o,1580)<790 then if i>-1 then n[t](n[1+t]);i=-1 end;else if(e[l]~=e[f])then s=s+1;else s=e[x];end;end if i==-1 then for e=t,r do n[e]=nil;end;i=-2 end;end end end n[e[l]]=h[e[x]];e=e[o];n[e[l]][e[x]]=e[f];e=e[o];n[e[l]]=h[e[x]];e=e[o];n[e[l]][e[x]]=e[f];e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=c[e[x]];e=e[o];local d=e[l];local a=n[e[x]];n[d+1]=a;n[d]=a[e[f]];e=e[o];n[e[l]]=e[x];e=e[o];local d=e[l];local t,a=P(n[d](u(n,d+1,e[x])));p=a+d-1;local a=0;for e=d,p do a=a+1;n[e]=t[a];end;e=e[o];local d=e[l];n[d]=n[d](u(n,d+1,p));for e=d+1,p do n[e]=nil;end;e=e[o];n[e[l]]();e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=e[x];e=e[o];local d=e[l];n[d](n[1+d]);for e=d,r do n[e]=nil;end;e=e[o];n[e[l]]=h[e[x]];e=e[o];n[e[l]][e[x]]=e[f];e=e[o];e=e[o];end;elseif(t<=((i[347418784])or(d[464725364](a(498852750,498583377),a,i,347418784))))then if(t<=((i[819830638])or((function(e)i[819830638]=(a(a(a((e)-668150,788699),882883),744393))-869513;return(i[819830638]);end)(a(897637630,898727361)))))then if(t<=a(831986597,831986600))then elseif(t==a(169860113,d[381552314]))then n[e[l]]=e[x];e=e[o];local d=e[l];n[d]=n[d](u(n,d+1,e[x]));for e=d+1,r do n[e]=nil;end;e=e[o];n[e[l]][e[x]]=n[e[f]];e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=n[e[x]][e[f]];e=e[o];n[e[l]]=n[e[x]][e[f]];e=e[o];n[e[l]][e[x]]=n[e[f]];e=e[o];n[e[l]][e[x]]=e[f];e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=n[e[x]][e[f]];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local d=e[l];n[d]=n[d](u(n,d+1,e[x]));for e=d+1,r do n[e]=nil;end;e=e[o];n[e[l]][e[x]]=n[e[f]];e=e[o];n[e[l]][e[x]]=e[f];e=e[o];n[e[l]]=n[e[x]][e[f]];e=e[o];local d=e[l];local l=n[e[x]];n[d+1]=l;n[d]=l[e[f]];e=e[o];e=e[o];elseif(t<=((i[705822370])or((function(e)i[705822370]=a((a((e)-275145,153681))-786322,396957);return(i[705822370]);end)(a(205490859,204145557)))))then local o=e[l];local l=n[e[x]];n[o+1]=l;n[o]=l[e[f]];end;elseif(t<=b(a(801305149,d[538405837]),1000486))then if(t>16)then n[e[l]]();elseif(t<a(100030411,d[538405837]))then n[e[l]]=n[e[x]];e=e[o];n[e[l]]=e[x];e=e[o];local d=e[l];n[d](u(n,d+1,e[x]));for e=d+1,r do n[e]=nil;end;e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=n[e[x]][e[f]];e=e[o];n[e[l]]=e[x];e=e[o];local d=e[l];n[d]=n[d](n[d+1]);for e=d+1,r do n[e]=nil;end;e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=n[e[x]][e[f]];e=e[o];n[e[l]]=e[x];e=e[o];local d=e[l];n[d]=n[d](n[d+1]);for e=d+1,r do n[e]=nil;end;e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=n[e[x]][e[f]];e=e[o];n[e[l]]=e[x];e=e[o];local d=e[l];n[d]=n[d](n[d+1]);for e=d+1,r do n[e]=nil;end;e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=n[e[x]][e[f]];e=e[o];n[e[l]]=e[x];e=e[o];local d=e[l];n[d]=n[d](n[d+1]);for e=d+1,r do n[e]=nil;end;e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=n[e[x]][e[f]];e=e[o];n[e[l]]=e[x];e=e[o];local d=e[l];n[d]=n[d](n[d+1]);for e=d+1,r do n[e]=nil;end;e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=n[e[x]][e[f]];e=e[o];n[e[l]][e[x]]=n[e[f]];e=e[o];n[e[l]][e[x]]=e[f];e=e[o];n[e[l]][e[x]]=n[e[f]];e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=n[e[x]][e[f]];e=e[o];e=e[o];end;elseif(t>a(936600775,936600789))then n[e[l]]=D(e[x]);e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local r;local i;local t;local a=0;local function d(e,n,l)e=(a+e)%3 a=((e~=0)and a+((1==e)and-n or n)or a*n)%l return a end for o=1,28 do if d(6890,8184+o,2728)>1364 then if d(9660,7674+o,572)>286 then if d(9683,5417+o,904)>=452 then if(e[l]~=e[f])then s=s+1;else s=e[x];end;else end else if d(4897,5114+o,1586)>=793 then else end end else if d(4398,9895+o,2322)<=1161 then if d(9587,2317+o,1482)>=741 then else n[t]=i;end else if d(4129,4861+o,2346)>=1173 then t=e[r];else r=l;end end i=e[x];end end local i;local t;local r;local a=0;local function d(e,n,l)e=(a+e)%3 a=((e~=0)and a+((1==e)and n or-n)or a*n)%l return a end for o=0,34 do if d(3604,3227+o,2898)<=1449 then if d(7511,8387+o,1694)>=847 then if d(4630,1670+o,1418)<709 then else end else if d(1822,3733+o,2320)<1160 then else i=l;end t=e[x];end else if d(4078,7764+o,3914)>1957 then if d(9860,3501+o,238)>=119 then else end else r=e[i];if d(7576,9766+o,1406)<703 then n[r]=t;else local o=e[x];local x=n[o];for e=o+1,e[f]do x=x..n[e];end;n[e[l]]=x;end end end end n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local r;local i;local t;local a=0;local function d(e,n,l)e=(a+e)%3 a=((e~=0)and a+((e<2)and n or-n)or a*n)%l return a end for o=1,29 do if d(6600,2578+o,1182)<=591 then if d(1666,4919+o,1254)>=627 then r=l;if d(5970,9526+o,1746)>873 then i=e[x];else end else if d(2289,8863+o,1112)>=556 then else n[t]=i;end end else if d(6646,9265+o,2830)<=1415 then if d(6156,5509+o,1568)<784 then else if(e[l]~=e[f])then s=s+1;else s=e[x];end;end else if d(1821,8751+o,740)<=370 then else t=e[r];end end end end n[e[l]]=e[x];e=e[o];local r;local i;local t;local a=0;local function d(n,e,l)e=(a+e)%3 a=((e~=0)and a+((e<2)and n or-n)or a*n)%l return a end for o=2,26 do if d(9000,3654+o,2056)>=1028 then if d(6304,6592+o,2770)<1385 then if d(9637,4985+o,734)>=367 then r=l;else end i=e[x];else if d(5255,5661+o,2708)<=1354 then else end end else if d(3880,6736+o,1816)>908 then if d(4617,8805+o,1770)<885 then n[t]=i;else s=e[x];end else if d(2299,4384+o,3418)>=1709 then else t=e[r];end end end end n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local i;local t;local r;local a=0;local function d(n,e,l)e=(a+e)%3 a=((e~=0)and a+((e<2)and-n or n)or a*n)%l return a end for o=0,30 do if d(4018,3733+o,3868)<=1934 then n[r]=t;if d(2463,2306+o,2638)>=1319 then if d(8704,8445+o,2658)>1329 then else if(n[e[l]]==e[f])then s=s+1;else s=e[x];end;end else if d(5310,7763+o,3614)>=1807 then else s=e[x];end end else if d(2380,3846+o,2768)>=1384 then if d(9018,7358+o,1372)>686 then r=e[i];else end else if d(6607,2897+o,2264)<=1132 then else i=l;end end t=e[x];end end n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local r;local i;local t;local a=0;local function d(n,e,l)e=(a+e)%3 a=((e~=0)and a+((1==e)and-n or n)or a*n)%l return a end for o=1,31 do if d(6106,5251+o,456)>=228 then if d(8459,8781+o,2978)<=1489 then n[e[l]]=c[e[x]];if d(7463,5924+o,1754)<=877 then if(e[l]~=e[f])then s=s+1;else s=e[x];end;else if(n[e[l]]==e[f])then s=s+1;else s=e[x];end;end else if d(2145,2329+o,1410)<705 then t=e[r];else n[t]=i;end end else if d(6704,8662+o,2390)<=1195 then if d(3508,1223+o,2744)<=1372 then r=l;else end else if d(8000,2791+o,470)<=235 then else i=e[x];end end end end n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];e=e[o];elseif(t<b(457910230,1160534))then n[e[l]]=c[e[x]];e=e[o];n[e[l]]=e[x];e=e[o];local d=e[l];n[d](n[1+d]);for e=d,r do n[e]=nil;end;e=e[o];n[e[l]]=h[e[x]];e=e[o];n[e[l]][e[x]]=e[f];e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=e[x];e=e[o];local d=e[l];n[d](n[1+d]);for e=d,r do n[e]=nil;end;e=e[o];n[e[l]]=h[e[x]];e=e[o];n[e[l]][e[x]]=e[f];e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=e[x];e=e[o];local d=e[l];n[d](n[1+d]);for e=d,r do n[e]=nil;end;e=e[o];n[e[l]]=h[e[x]];e=e[o];n[e[l]][e[x]]=e[f];e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=e[x];e=e[o];local d=e[l];n[d](n[1+d]);for e=d,r do n[e]=nil;end;e=e[o];n[e[l]]=h[e[x]];e=e[o];n[e[l]][e[x]]=e[f];e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=e[x];e=e[o];local d=e[l];n[d](n[1+d]);for e=d,r do n[e]=nil;end;e=e[o];n[e[l]]=h[e[x]];e=e[o];n[e[l]][e[x]]=e[f];e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=e[x];e=e[o];local d=e[l];n[d](n[1+d]);for e=d,r do n[e]=nil;end;e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=e[x];e=e[o];e=e[o];end;elseif(t<=a(574555282,574555268))then if(t<=((i[658280325])or(d['zlEimb'](a(628666463,628394861),a,i,658280325))))then do return;end;elseif(t==21)then n[e[l]]=D(256);elseif(t<=((i[123430635])or(d["kk1EIO2udf"](a(98516082,d[538405837]),a,i,123430635))))then local l=e[l];local x,e=P(n[l](u(n,l+1,e[x])));p=e+l-1;local e=0;for l=l,p do e=e+1;n[l]=x[e];end;end;elseif(t<=24)then if(t>((i[719800211])or((function(e)i[719800211]=a(a((e)-64340,332159),119161);return(i[719800211]);end)(a(374944095,d[384882784])))))then local b;local i;local t;local s;local u;local a=0;local function d(e,n,l)e=(a+e)%3 a=((e~=0)and a+((e<2)and n or-n)or a*n)%l return a end for o=1,27 do if d(6443,5261+o,2666)<1333 then if d(5236,8039+o,646)>323 then if d(6830,8510+o,2764)<=1382 then b=c;else end i=l;else t=e[x];if d(5562,4355+o,2494)>=1247 then s=b[t];else end end else if d(5713,1942+o,1796)>=898 then if d(9865,5231+o,1286)<643 then u=e[i];else end else if d(5583,8390+o,2470)<=1235 then n[e[l]]=c[e[x]];else end end n[u]=s;end end n[e[l]]=e[x];e=e[o];local d=e[l];n[d](n[1+d]);for e=d,r do n[e]=nil;end;e=e[o];n[e[l]]=h[e[x]];e=e[o];n[e[l]][e[x]]=e[f];e=e[o];local b;local s;local u;local i;local t;local a=0;local function d(n,e,l)e=(a+e)%3 a=((e~=0)and a+((1==e)and n or-n)or a*n)%l return a end for o=0,31 do if d(7979,8835+o,3414)>=1707 then u=e[x];if d(5628,5706+o,1160)<=580 then if d(3042,7540+o,1326)>=663 then t=e[s];else n[t]=i;end else if d(1039,1618+o,3628)>=1814 then i=b[u];else end end else if d(1796,1054+o,892)>=446 then if d(3657,4804+o,3840)<1920 then else end else if d(6947,9703+o,2962)>=1481 then else b=c;end s=l;end end end n[e[l]]=e[x];e=e[o];local d=e[l];n[d](n[1+d]);for e=d,r do n[e]=nil;end;e=e[o];n[e[l]]=h[e[x]];e=e[o];n[e[l]][e[x]]=e[f];e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=e[x];e=e[o];local d=e[l];n[d](n[1+d]);for e=d,r do n[e]=nil;end;e=e[o];n[e[l]]=h[e[x]];e=e[o];n[e[l]][e[x]]=e[f];e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=e[x];e=e[o];local d=e[l];n[d](n[1+d]);for e=d,r do n[e]=nil;end;e=e[o];n[e[l]]=h[e[x]];e=e[o];n[e[l]][e[x]]=e[f];e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=e[x];e=e[o];local d=e[l];n[d](n[1+d]);for e=d,r do n[e]=nil;end;e=e[o];n[e[l]]=h[e[x]];e=e[o];n[e[l]][e[x]]=e[f];e=e[o];n[e[l]]=c[e[x]];e=e[o];local s;local i;local t;local a=0;local function d(n,e,l)e=(a+e)%3 a=((e~=0)and a+((1==e)and-n or n)or a*n)%l return a end for o=0,32 do if d(1696,5555+o,3528)<=1764 then s=l;if d(5110,5414+o,1350)>=675 then if d(6867,4550+o,3624)>1812 then n[e[l]]=e[x]-e[f];else i=e[x];end else if d(7793,3508+o,618)<=309 then else end end else if d(9547,2208+o,1690)>=845 then if d(5570,4416+o,3484)<1742 then else end else if d(9950,2813+o,1038)>=519 then t=e[s];else end n[t]=i;end end end local d=e[l];n[d](n[1+d]);for e=d,r do n[e]=nil;end;e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=e[x];e=e[o];e=e[o];elseif(t<a(375163426,d[384882784]))then n[e[l]]=e[x];e=e[o];local t;local c;local i;local a=0;local function d(e,n,l)e=(a+e)%3 a=((e~=0)and a+((1==e)and n or-n)or a*n)%l return a end for o=2,31 do if d(8143,2870+o,1018)<509 then if d(4536,6376+o,2256)>=1128 then if d(9576,2256+o,1796)>=898 then else n[i]=c;end else if d(8275,9509+o,1036)>=518 then else end end else if d(7410,9230+o,2588)>=1294 then if d(8474,1822+o,348)>=174 then else t=l;end else c=e[x];if d(7488,4470+o,248)>124 then else i=e[t];end end end end n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local c;local t;local i;local a=0;local function d(n,e,l)e=(a+e)%3 a=((e~=0)and a+((1==e)and n or-n)or a*n)%l return a end for o=2,29 do if d(2497,1884+o,1622)<=811 then if d(2302,4754+o,2374)>=1187 then if d(5224,7106+o,2384)>=1192 then if(e[l]~=e[f])then s=s+1;else s=e[x];end;else end else if d(4628,1049+o,576)<=288 then c=l;else end end t=e[x];else if d(9058,6830+o,2138)<1069 then if d(4361,6505+o,1262)>631 then else end else if d(1683,3539+o,3674)<1837 then i=e[c];else end n[i]=t;end end end n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];e=e[o];end;elseif(t==a(157097654,157097647))then local o=A[e[x]];local d=e[y];local x={};local a=K({},{__index=function(n,e)local e=x[e];return(e[1][e[2]]);end,__newindex=function(l,e,n)local e=x[e];e[1][e[2]]=n;end;});for e=1,e[f],1 do local l=d[e];if(l[0]==0)then x[e-1]=({n,l[1]});else x[e-1]=({h,l[1]});end;m[#m+1]=x;end;n[e[l]]=C(o,a,c);elseif(t<=b(457910230,1160509))then e=e[o];n[e[l]]=h[e[x]];e=e[o];n[e[l]]=n[e[x]][e[f]];e=e[o];n[e[l]]=c[e[x]];e=e[o];local d=e[l];local a=n[e[x]];n[d+1]=a;n[d]=a[e[f]];e=e[o];n[e[l]]=e[x];e=e[o];local d=e[l];n[d]=n[d](u(n,d+1,e[x]));for e=d+1,r do n[e]=nil;end;e=e[o];n[e[l]]=n[e[x]][e[f]];e=e[o];n[e[l]]=n[e[x]][e[f]];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=n[e[x]];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=n[e[x]];e=e[o];local a=e[x];local d=n[a];for e=a+1,e[f]do d=d..n[e];end;n[e[l]]=d;e=e[o];n[e[l]]=c[e[x]];e=e[o];local a=e[l];local d=n[e[x]];n[a+1]=d;n[a]=d[e[f]];e=e[o];local f;local i;local c;local h;local b;local t;local a=0;local p=0;local function d(e,n,l)e=(a+e)%3 a=((e~=0)and a+((1==e)and n or-n)or a*n)%l return a end for o=0,28 do if d(3712,8274+o,3068)>1534 then f=e;if d(7791,5662+o,1178)<=589 then i=x;if d(4241,4455+o,1794)>897 then c=l;else end else b=h[f[i]];if d(6133,2889+o,3360)>=1680 then if p~=1 then n[t]=b;p=1;end;else t=f[c];end end else if d(6881,8655+o,3796)<1898 then if d(1140,5816+o,962)<481 then h=n;else s=e[x];end else if d(9470,1667+o,602)>301 then else end end end end local l=e[l];n[l]=n[l](u(n,l+1,e[x]));for e=l+1,r do n[e]=nil;end;e=e[o];e=e[o];end;elseif(t<=b(a(879694572,91536108),a(131267088,131942224)))then if(t<=((i[586267874])or((function(e)i[586267874]=a(a(a(e,231609),114055),67705);return(i[586267874]);end)(a(452607202,452526469)))))then if(t<=((i[646304566])or((function(e)i[646304566]=(((a(e,601697))-213352)-813877)-718095;return(i[646304566]);end)(a(526730559,527878807)))))then if(t<=((i[297430219])or((function(e)i[297430219]=a((a(e,645022))-623056,966493);return(i[297430219]);end)(a(720223117,721169669)))))then n[e[l]]=n[e[x]][e[f]];elseif(t==((i[878853652])or((function(e)i[878853652]=a(a(a(((e)-804312)-328512,459586),334987),87896);return(i[878853652]);end)(a(395337772,d['YfYbDjH'])))))then local t;local f;local a;local d=0;local function o(e,n,l)e=(d+e)%3 d=((e~=0)and d+((1==e)and n or-n)or d*n)%l return d end for d=2,30 do if o(4097,8195+d,3774)>1887 then if o(3502,2704+d,3686)<1843 then if o(1055,4517+d,3804)>=1902 then else t=e;end else if o(9954,2522+d,3126)<=1563 then else s=a;end end else if o(8483,4722+d,1436)<=718 then if o(5402,1262+d,2176)>=1088 then f=x;else n[e[l]]=#n[e[x]];end else if o(7778,5677+d,1364)<=682 then else end end a=t[f];end end elseif(t<=b(a(1053306152,d[381552314]),811865))then n[e[l]]=n[e[x]][n[e[f]]];end;elseif(t<=b(457910230,1160513))then n[e[l]]=n[e[x]];elseif(t==b(a(813262195,d[243736063]),a(637392139,636458110)))then local i;local r;local t;local a=0;local function d(n,e,l)e=(a+e)%3 a=((e~=0)and a+((1==e)and-n or n)or a*n)%l return a end for o=1,32 do if d(7478,9159+o,1768)>=884 then if d(7165,8166+o,840)>=420 then if d(6335,7676+o,3818)<=1909 then if(n[e[l]]==e[f])then s=s+1;else s=e[x];end;else end else if d(4033,4658+o,440)<220 then i=l;else end end else if d(9624,9844+o,624)<=312 then if d(7595,5662+o,822)<=411 then r=e[x];else n[t]=r;end else if d(9016,8171+o,1718)>=859 then else end end t=e[i];end end n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local r;local i;local t;local a=0;local function d(n,e,l)e=(a+e)%3 a=((e~=0)and a+((e<2)and-n or n)or a*n)%l return a end for o=1,31 do if d(1490,9821+o,3932)>=1966 then i=e[x];if d(1467,6807+o,2554)<=1277 then if d(6331,8315+o,1192)>596 then else end else if d(8629,3960+o,1334)>667 then t=e[r];else end end else if d(1340,2303+o,1250)>625 then if d(1361,4097+o,2524)>=1262 then else end else if d(2265,1292+o,1794)>=897 then n[t]=i;else r=l;end en... (27 KB left)
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("Cyberichub", "Midnight")
+
+
+local Tab = Window:NewTab("Credits")
+local Section = Tab:NewSection("Credits")
+Section:NewButton("Put together by 9B55#9999 and Yum#3130", "9B55#9999", function()
+    print("Cybericalhub has loaded")
+end)
+
+
+--boombox
+local Tab = Window:NewTab("BoomBox scripts")
+local Section = Tab:NewSection("BoomBox scripts")
+Section:NewButton("boombox", "boombox vis", function()loadstring(game:HttpGet("https://gist.githubusercontent.com/cyberical9B55/7fdcb42f5242df0d173f8f487b52a84b/raw/fc98f4f1fecf78300192fd6f5a08c60e75b332d4/bvis"))()
+    print("Clicked")
+end)
+Section:NewButton("PineApple hub", "Execute pineapple hub", function()-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local Aux_Pineapple = Instance.new("ScreenGui")
+local Frame = Instance.new("Frame")
+local Frame_2 = Instance.new("Frame")
+local TextLabel = Instance.new("TextLabel")
+local TextLabel_2 = Instance.new("TextLabel")
+local Frame_3 = Instance.new("Frame")
+local TextBox = Instance.new("TextButton")
+local TextBox_2 = Instance.new("TextButton")
+local Frame_4 = Instance.new("Frame")
+local TextLabel_3 = Instance.new("TextLabel")
+local Frame_5 = Instance.new("Frame")
+local TextLabel_4 = Instance.new("TextLabel")
+local Frame_6 = Instance.new("Frame")
+local Frame_7 = Instance.new("Frame")
+local Frame_8 = Instance.new("Frame")
+local MAX = Instance.new("TextButton")
+local UICorner = Instance.new("UICorner")
+local MAY = Instance.new("TextButton")
+local UICorner_2 = Instance.new("UICorner")
+local MAZ = Instance.new("TextButton")
+local UICorner_3 = Instance.new("UICorner")
+local Frame_9 = Instance.new("Frame")
+local Frame_10 = Instance.new("Frame")
+local Frame_11 = Instance.new("Frame")
+local WAX = Instance.new("TextButton")
+local UICorner_4 = Instance.new("UICorner")
+local WAY = Instance.new("TextButton")
+local UICorner_5 = Instance.new("UICorner")
+local WAZ = Instance.new("TextButton")
+local UICorner_6 = Instance.new("UICorner")
+local WavesOn = Instance.new("TextButton")
+local UICorner_7 = Instance.new("UICorner")
+local TextLabel_5 = Instance.new("TextLabel")
+local TextLabel_6 = Instance.new("TextLabel")
+local TextLabel_7 = Instance.new("TextLabel")
+local Distance = Instance.new("TextBox")
+local WaveInt = Instance.new("TextBox")
+local Speed = Instance.new("TextBox")
+local AudioId = Instance.new("TextBox")
+local Amount = Instance.new("TextBox")
+local TextBox_3 = Instance.new("TextButton")
+local TextBox_4 = Instance.new("TextButton")
+local TextBox_5 = Instance.new("TextButton")
+
+--Properties:
+
+Aux_Pineapple.Name = "Aux_Pineapple"
+Aux_Pineapple.Parent = game:WaitForChild("CoreGui")
+Aux_Pineapple.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+Aux_Pineapple.ResetOnSpawn = false
+
+Frame.Parent = Aux_Pineapple
+Frame.AnchorPoint = Vector2.new(0.5, 0.5)
+Frame.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
+Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Frame.BorderSizePixel = 2
+Frame.Position = UDim2.new(0.5, 0, 0.564318538, 0)
+Frame.Size = UDim2.new(0, 429, 0, 385)
+
+Frame_2.Parent = Frame
+Frame_2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Frame_2.BorderSizePixel = 0
+Frame_2.Size = UDim2.new(0, 428, 0, 30)
+
+TextLabel.Parent = Frame_2
+TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.BackgroundTransparency = 1.000
+TextLabel.Position = UDim2.new(0.0350467265, 0, 0, 0)
+TextLabel.Size = UDim2.new(0, 76, 0, 28)
+TextLabel.Font = Enum.Font.Code
+TextLabel.Text = "cyberical"
+TextLabel.TextColor3 = Color3.fromRGB(255, 255, 127)
+TextLabel.TextSize = 15.000
+TextLabel.TextXAlignment = Enum.TextXAlignment.Left
+
+TextLabel_2.Parent = Frame_2
+TextLabel_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_2.BackgroundTransparency = 1.000
+TextLabel_2.Position = UDim2.new(0.273364484, 0, 0, 0)
+TextLabel_2.Size = UDim2.new(0, 73, 0, 28)
+TextLabel_2.Font = Enum.Font.Code
+TextLabel_2.Text = "discord.gg/MYgW8wXsJd"
+TextLabel_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_2.TextSize = 15.000
+TextLabel_2.TextXAlignment = Enum.TextXAlignment.Left
+
+Frame_3.Parent = Frame
+Frame_3.BackgroundColor3 = Color3.fromRGB(131, 131, 131)
+Frame_3.BackgroundTransparency = 0.700
+Frame_3.BorderColor3 = Color3.fromRGB(27, 42, 53)
+Frame_3.Position = UDim2.new(0.235746518, 0, 0, 0)
+Frame_3.Size = UDim2.new(0, 1, 0, 28)
+
+TextBox.Name = "TextBox"
+TextBox.Parent = Frame
+TextBox.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+TextBox.BorderColor3 = Color3.fromRGB(54, 54, 54)
+TextBox.Position = UDim2.new(0.345004708, 0, 0.104059465, 0)
+TextBox.Size = UDim2.new(0, 125, 0, 26)
+TextBox.Font = Enum.Font.Code
+TextBox.Text = "Visualize"
+TextBox.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextBox.TextSize = 14.000
+
+TextBox_2.Name = "TextBox"
+TextBox_2.Parent = Frame
+TextBox_2.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+TextBox_2.BorderColor3 = Color3.fromRGB(54, 54, 54)
+TextBox_2.Position = UDim2.new(0.678338051, 0, 0.104059465, 0)
+TextBox_2.Size = UDim2.new(0, 119, 0, 26)
+TextBox_2.Font = Enum.Font.Code
+TextBox_2.Text = "Mass-Play"
+TextBox_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextBox_2.TextSize = 14.000
+
+Frame_4.Parent = Frame
+Frame_4.BackgroundColor3 = Color3.fromRGB(131, 131, 131)
+Frame_4.BackgroundTransparency = 0.550
+Frame_4.Position = UDim2.new(0, 0, 0.296949506, 0)
+Frame_4.Size = UDim2.new(0, 429, 0, 1)
+
+TextLabel_3.Parent = Frame
+TextLabel_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_3.BackgroundTransparency = 1.000
+TextLabel_3.Position = UDim2.new(0.40856266, 0, 0.297674388, 0)
+TextLabel_3.Size = UDim2.new(0, 69, 0, 26)
+TextLabel_3.Font = Enum.Font.Code
+TextLabel_3.Text = "Settings"
+TextLabel_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_3.TextSize = 15.000
+
+Frame_5.Parent = Frame
+Frame_5.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+Frame_5.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Frame_5.Position = UDim2.new(0.0233100224, 0, 0.384053171, 0)
+Frame_5.Size = UDim2.new(0, 408, 0, 224)
+
+TextLabel_4.Parent = Frame_5
+TextLabel_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_4.BackgroundTransparency = 1.000
+TextLabel_4.Position = UDim2.new(0.0606433637, 0, 0.0342337564, 0)
+TextLabel_4.Size = UDim2.new(0, 69, 0, 13)
+TextLabel_4.Font = Enum.Font.Code
+TextLabel_4.Text = "Main Angle"
+TextLabel_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_4.TextSize = 13.000
+
+Frame_6.Parent = Frame_5
+Frame_6.BackgroundColor3 = Color3.fromRGB(25, 25, 25)
+Frame_6.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Frame_6.Position = UDim2.new(0.0147058824, 0, 0.163043484, 0)
+Frame_6.Size = UDim2.new(0, 107, 0, 24)
+
+Frame_7.Parent = Frame_6
+Frame_7.BackgroundColor3 = Color3.fromRGB(80, 80, 80)
+Frame_7.BackgroundTransparency = 0.700
+Frame_7.BorderColor3 = Color3.fromRGB(27, 42, 53)
+Frame_7.Position = UDim2.new(0.335000008, 0, 0, 0)
+Frame_7.Size = UDim2.new(0, 1, 0, 24)
+
+Frame_8.Parent = Frame_6
+Frame_8.BackgroundColor3 = Color3.fromRGB(80, 80, 80)
+Frame_8.BackgroundTransparency = 0.700
+Frame_8.BorderColor3 = Color3.fromRGB(27, 42, 53)
+Frame_8.Position = UDim2.new(0.660274863, 0, 0, 0)
+Frame_8.Size = UDim2.new(0, 1, 0, 24)
+
+MAX.Name = "MAX"
+MAX.Parent = Frame_6
+MAX.BackgroundColor3 = Color3.fromRGB(255, 255, 127)
+MAX.Position = UDim2.new(0.0093457941, 0, 0, 0)
+MAX.Size = UDim2.new(0, 35, 0, 24)
+MAX.Font = Enum.Font.Code
+MAX.Text = "X"
+MAX.TextColor3 = Color3.fromRGB(53, 53, 53)
+MAX.TextSize = 14.000
+
+UICorner.CornerRadius = UDim.new(0, 3)
+UICorner.Parent = MAX
+
+MAY.Name = "MAY"
+MAY.Parent = Frame_6
+MAY.BackgroundColor3 = Color3.fromRGB(255, 255, 127)
+MAY.Position = UDim2.new(0.339622617, 0, 0, 0)
+MAY.Size = UDim2.new(0, 35, 0, 24)
+MAY.Font = Enum.Font.Code
+MAY.Text = "Y"
+MAY.TextColor3 = Color3.fromRGB(53, 53, 53)
+MAY.TextSize = 14.000
+
+UICorner_2.CornerRadius = UDim.new(0, 3)
+UICorner_2.Parent = MAY
+
+MAZ.Name = "MAZ"
+MAZ.Parent = Frame_6
+MAZ.BackgroundColor3 = Color3.fromRGB(255, 255, 127)
+MAZ.Position = UDim2.new(0.660730004, 0, 0, 0)
+MAZ.Size = UDim2.new(0, 35, 0, 24)
+MAZ.Font = Enum.Font.Code
+MAZ.Text = "Z"
+MAZ.TextColor3 = Color3.fromRGB(53, 53, 53)
+MAZ.TextSize = 14.000
+
+UICorner_3.CornerRadius = UDim.new(0, 3)
+UICorner_3.Parent = MAZ
+
+Frame_9.Parent = Frame_5
+Frame_9.BackgroundColor3 = Color3.fromRGB(25, 25, 25)
+Frame_9.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Frame_9.Position = UDim2.new(0.685294092, 0, 0.293434799, 0)
+Frame_9.Size = UDim2.new(0, 107, 0, 24)
+
+Frame_10.Parent = Frame_9
+Frame_10.BackgroundColor3 = Color3.fromRGB(80, 80, 80)
+Frame_10.BackgroundTransparency = 0.700
+Frame_10.BorderColor3 = Color3.fromRGB(27, 42, 53)
+Frame_10.Position = UDim2.new(0.335000008, 0, 0, 0)
+Frame_10.Size = UDim2.new(0, 1, 0, 24)
+
+Frame_11.Parent = Frame_9
+Frame_11.BackgroundColor3 = Color3.fromRGB(80, 80, 80)
+Frame_11.BackgroundTransparency = 0.700
+Frame_11.BorderColor3 = Color3.fromRGB(27, 42, 53)
+Frame_11.Position = UDim2.new(0.660274863, 0, 0, 0)
+Frame_11.Size = UDim2.new(0, 1, 0, 24)
+
+WAX.Name = "WAX"
+WAX.Parent = Frame_9
+WAX.BackgroundColor3 = Color3.fromRGB(255, 255, 127)
+WAX.Position = UDim2.new(0.0093457941, 0, 0, 0)
+WAX.Size = UDim2.new(0, 35, 0, 24)
+WAX.Font = Enum.Font.Code
+WAX.Text = "X"
+WAX.TextColor3 = Color3.fromRGB(53, 53, 53)
+WAX.TextSize = 14.000
+
+UICorner_4.CornerRadius = UDim.new(0, 3)
+UICorner_4.Parent = WAX
+
+WAY.Name = "WAY"
+WAY.Parent = Frame_9
+WAY.BackgroundColor3 = Color3.fromRGB(255, 255, 127)
+WAY.Position = UDim2.new(0.339622617, 0, 0, 0)
+WAY.Size = UDim2.new(0, 35, 0, 24)
+WAY.Font = Enum.Font.Code
+WAY.Text = "Y"
+WAY.TextColor3 = Color3.fromRGB(53, 53, 53)
+WAY.TextSize = 14.000
+
+UICorner_5.CornerRadius = UDim.new(0, 3)
+UICorner_5.Parent = WAY
+
+WAZ.Name = "WAZ"
+WAZ.Parent = Frame_9
+WAZ.BackgroundColor3 = Color3.fromRGB(255, 255, 127)
+WAZ.Position = UDim2.new(0.660730004, 0, 0, 0)
+WAZ.Size = UDim2.new(0, 35, 0, 24)
+WAZ.Font = Enum.Font.Code
+WAZ.Text = "Z"
+WAZ.TextColor3 = Color3.fromRGB(53, 53, 53)
+WAZ.TextSize = 14.000
+
+UICorner_6.CornerRadius = UDim.new(0, 3)
+UICorner_6.Parent = WAZ
+
+WavesOn.Name = "WavesOn"
+WavesOn.Parent = Frame_9
+WavesOn.BackgroundColor3 = Color3.fromRGB(31, 31, 31)
+WavesOn.Position = UDim2.new(0.814416647, 0, -1.17032111, 0)
+WavesOn.Size = UDim2.new(0, 18, 0, 18)
+WavesOn.Font = Enum.Font.Code
+WavesOn.Text = ""
+WavesOn.TextColor3 = Color3.fromRGB(53, 53, 53)
+WavesOn.TextSize = 14.000
+
+UICorner_7.CornerRadius = UDim.new(0, 3)
+UICorner_7.Parent = WavesOn
+
+TextLabel_5.Parent = Frame_5
+TextLabel_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_5.BackgroundTransparency = 1.000
+TextLabel_5.Position = UDim2.new(0.729761064, 0, 0.0342337564, 0)
+TextLabel_5.Size = UDim2.new(0, 69, 0, 13)
+TextLabel_5.Font = Enum.Font.Code
+TextLabel_5.Text = "Waves"
+TextLabel_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_5.TextSize = 13.000
+
+TextLabel_6.Parent = Frame_5
+TextLabel_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_6.BackgroundTransparency = 1.000
+TextLabel_6.Position = UDim2.new(0.685643435, 0, 0.159233764, 0)
+TextLabel_6.Size = UDim2.new(0, 48, 0, 13)
+TextLabel_6.Font = Enum.Font.Code
+TextLabel_6.Text = "Enabled"
+TextLabel_6.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_6.TextSize = 13.000
+
+TextLabel_7.Parent = Frame_5
+TextLabel_7.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_7.BackgroundTransparency = 1.000
+TextLabel_7.Position = UDim2.new(0.401329696, 0, 0.0342337564, 0)
+TextLabel_7.Size = UDim2.new(0, 69, 0, 13)
+TextLabel_7.Font = Enum.Font.Code
+TextLabel_7.Text = "Misc"
+TextLabel_7.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_7.TextSize = 13.000
+
+Distance.Name = "Distance"
+Distance.Parent = Frame_5
+Distance.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+Distance.BorderColor3 = Color3.fromRGB(54, 54, 54)
+Distance.Position = UDim2.new(0.339382857, 0, 0.36220783, 0)
+Distance.Size = UDim2.new(0, 119, 0, 29)
+Distance.Font = Enum.Font.Code
+Distance.PlaceholderText = "Distance (5)"
+Distance.Text = ""
+Distance.TextColor3 = Color3.fromRGB(255, 255, 255)
+Distance.TextSize = 14.000
+
+WaveInt.Name = "WaveInt"
+WaveInt.Parent = Frame_5
+WaveInt.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+WaveInt.BorderColor3 = Color3.fromRGB(54, 54, 54)
+WaveInt.Position = UDim2.new(0.339000016, 0, 0.581853449, 0)
+WaveInt.Size = UDim2.new(0, 119, 0, 29)
+WaveInt.Font = Enum.Font.Code
+WaveInt.PlaceholderText = "Wave Intensity (3)"
+WaveInt.Text = ""
+WaveInt.TextColor3 = Color3.fromRGB(255, 255, 255)
+WaveInt.TextSize = 12.000
+
+Speed.Name = "Speed"
+Speed.Parent = Frame_5
+Speed.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+Speed.BorderColor3 = Color3.fromRGB(54, 54, 54)
+Speed.Position = UDim2.new(0.340999991, 0, 0.806634486, 0)
+Speed.Size = UDim2.new(0, 119, 0, 29)
+Speed.Font = Enum.Font.Code
+Speed.PlaceholderColor3 = Color3.fromRGB(178, 178, 178)
+Speed.PlaceholderText = "Speed (1)"
+Speed.Text = ""
+Speed.TextColor3 = Color3.fromRGB(255, 255, 255)
+Speed.TextSize = 14.000
+
+AudioId.Name = "AudioId"
+AudioId.Parent = Frame
+AudioId.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+AudioId.BorderColor3 = Color3.fromRGB(54, 54, 54)
+AudioId.Position = UDim2.new(0.0256573875, 0, 0.104059465, 0)
+AudioId.Size = UDim2.new(0, 119, 0, 26)
+AudioId.Font = Enum.Font.Code
+AudioId.PlaceholderText = "Audio-ID"
+AudioId.Text = ""
+AudioId.TextColor3 = Color3.fromRGB(255, 255, 255)
+AudioId.TextSize = 14.000
+
+Amount.Name = "Amount"
+Amount.Parent = Frame
+Amount.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+Amount.BorderColor3 = Color3.fromRGB(54, 54, 54)
+Amount.Position = UDim2.new(0.0256573875, 0, 0.202760756, 0)
+Amount.Size = UDim2.new(0, 119, 0, 26)
+Amount.Font = Enum.Font.Code
+Amount.PlaceholderColor3 = Color3.fromRGB(178, 178, 178)
+Amount.PlaceholderText = "Amount"
+Amount.Text = ""
+Amount.TextColor3 = Color3.fromRGB(255, 255, 255)
+Amount.TextSize = 14.000
+
+TextBox_3.Name = "TextBox"
+TextBox_3.Parent = Frame
+TextBox_3.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+TextBox_3.BorderColor3 = Color3.fromRGB(54, 54, 54)
+TextBox_3.Position = UDim2.new(0.345004708, 0, 0.202760756, 0)
+TextBox_3.Size = UDim2.new(0, 125, 0, 26)
+TextBox_3.Font = Enum.Font.Code
+TextBox_3.Text = "Dupe Amount"
+TextBox_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextBox_3.TextSize = 14.000
+
+TextBox_4.Name = "TextBox"
+TextBox_4.Parent = Frame
+TextBox_4.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+TextBox_4.BorderColor3 = Color3.fromRGB(54, 54, 54)
+TextBox_4.Position = UDim2.new(0.678338051, 0, 0.202760756, 0)
+TextBox_4.Size = UDim2.new(0, 119, 0, 26)
+TextBox_4.Font = Enum.Font.Code
+TextBox_4.Text = "Steal Tools"
+TextBox_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextBox_4.TextSize = 14.000
+
+TextBox_5.Name = "TextBox"
+TextBox_5.Parent = Frame
+TextBox_5.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+TextBox_5.BorderColor3 = Color3.fromRGB(54, 54, 54)
+TextBox_5.Position = UDim2.new(0.347335726, 0, 0.475488037, 0)
+TextBox_5.Size = UDim2.new(0, 119, 0, 26)
+TextBox_5.Font = Enum.Font.Code
+TextBox_5.Text = "Sync"
+TextBox_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextBox_5.TextSize = 14.000
+
+-- Scripts:
+
+local function DBGS_fake_script() -- TextBox.LocalScript 
+	local script = Instance.new('LocalScript', TextBox)
+
+	local currentid=""
+	local currentconnection=nil
+	local vis = nil
+	local dt =0
+	local CurrentSound=nil
+	local CurrentTimePosition=0
+	game:service'RunService'.Stepped:Connect(function(e,d)
+		dt+=d
+	end)
+	local dont=1
+	function setupadded()
+		game.Players.LocalPlayer.Character.ChildAdded:Connect(function(child)
+			if child:IsA("Tool") and dont ==0 then
+				wait()
+				child.Parent=game.Players.LocalPlayer.Backpack
+				wait(.3)
+				dont=1
+				if vis ~=nil then
+					vis(currentid,CurrentTimePosition)
+				end
+			end
+		end)
+	end
+	setupadded()
+	vis=function(id,timepos)
+		_G.tov={}
+		if _G.NetFix==nil then
+			_G.NetFix=" "
+			game:service'RunService'.Heartbeat:Connect(function()
+				for i,v in pairs(_G.tov) do
+					v[1].Velocity=Vector3.new(2e2,0,0)
+					v[1].CFrame=v[2].CFrame
+				end
+			end)
+		end
+		local Stopped=false
+		local visstuff={}
+		local function align(i)
+			l=Instance.new("Part")
+			l.Transparency=1
+			l.Parent=i.Parent
+			l.Size=Vector3.new(0,0,0)
+			l.Name=""
+			l.CanCollide=false
+			l.Anchored=true
+			l.CFrame=i.CFrame
+			table.insert(_G.tov,{i,l})
+			local att0 = Instance.new("Attachment", i)
+			att0.Position = Vector3.new(0,0,0)
+			local att1 = Instance.new("Attachment", l)
+			att1.Position = Vector3.new(0,0,0)
+			local AP = Instance.new("AlignPosition", i)
+			AP.Attachment0 = att0
+			AP.Attachment1 = att1
+			AP.RigidityEnabled = true
+			AP.ReactionForceEnabled = false
+			AP.ApplyAtCenterOfMass = true
+			AP.MaxForce = 9999999
+			AP.MaxVelocity = math.huge
+			AP.Responsiveness = 200
+			local AO = Instance.new("AlignOrientation", i)
+			AO.Attachment0 = att0
+			AO.Attachment1 = att1
+			AO.ReactionTorqueEnabled = false
+			AO.PrimaryAxisOnly = false
+			AO.MaxTorque = 9999999
+			AO.MaxAngularVelocity = math.huge
+			AO.Responsiveness = 200
+			table.insert(visstuff,{AO,AP,att0,att1,l})
+			return l
+		end
+		local Visualizer={}
+		local First=false
+		local Handles={}
+		local ToolCount=0
+		for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+			if v:IsA("Tool") then
+				ToolCount=ToolCount+1
+			end
+		end
+		local cf=game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+		for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+			if v:IsA("Tool") then
+				coroutine.wrap(function()
+					if First==false then
+						First=v
+					end
+					local Handle=v:FindFirstChildOfClass("Part")
+					v.Parent=game.Players.LocalPlayer.Character
+					if Handle:FindFirstChildOfClass("Sound") then
+						Handle:FindFirstChildOfClass("Sound").Parent=Instance.new("Part")
+					end
+					currentid=id
+					v:FindFirstChildOfClass("RemoteEvent"):FireServer("PlaySong",(id))
+					repeat wait() until Handle:FindFirstChildOfClass("Sound") and Handle:FindFirstChildOfClass("Sound").IsPlaying
+					for i,v in pairs(game.Players.LocalPlayer.Character:GetDescendants()) do
+						if v.Name=="RightGrip" then
+							v:Destroy()
+						end
+					end
+					Handle.Name=""
+					if First==v then
+						CurrentSound=Handle:FindFirstChildOfClass("Sound")
+					end
+					Handle:FindFirstChildOfClass("Sound").Playing=false
+					coroutine.wrap(function()
+						repeat wait() until v.Parent~=game.Players.LocalPlayer.Character
+						Handle.Name="Handle"
+						Stopped=true
+						dont=1
+						_G.tov={}
+						for i,v in pairs(visstuff) do
+							for i,v in pairs(v) do
+								v:Destroy()
+							end
+						end
+					end)()
+					table.insert(Handles,Handle)
+					table.insert(Visualizer,align(Handle))
+				end)()
+			end
+		end
+		local Root=game.Players.LocalPlayer.Character.HumanoidRootPart
+		repeat wait() until #Visualizer==ToolCount and CurrentSound
+		wait(1)
+		for i,v in pairs(Handles) do
+			coroutine.wrap(function()
+				v:FindFirstChildOfClass("Sound").TimePosition=timepos
+				v:FindFirstChildOfClass("Sound").Playing=true
+			end)()
+		end
+		spawn(function()
+			while wait(.6) do
+				if Stopped == true then
+					break
+				end
+				if CurrentSound.IsPlaying == true then
+					CurrentTimePosition=CurrentSound.TimePosition
+				end
+			end
+		end)
+		local RenderStepped = game:GetService('RunService').RenderStepped
+		local Wait = RenderStepped.Wait
+		local Selected=CurrentSound
+		local p = Instance.new("Part")
+		function CF2V(cf)
+			p.CFrame=cf
+			return p.Rotation
+		end
+		local function AngleFromSettings(angle,str)
+			if str=="X" then
+				return CFrame.Angles(angle,0,0)
+			elseif str=="Y" then
+				return CFrame.Angles(0,angle,0)
+			elseif str=="Z" then
+				return CFrame.Angles(0,0,angle)
+			end
+		end
+		local function VectorFromSettings(angle,str)
+			if str=="X" then
+				return Vector3.new(angle,0,0)
+			elseif str=="Y" then
+				return Vector3.new(0,angle,0)
+			elseif str=="Z" then
+				return Vector3.new(0,0,angle)
+			end
+		end
+		dont=0
+		setupadded()
+		for K,V in next, Visualizer do
+			coroutine.wrap(function()
+				repeat
+					local Spin = 0
+					repeat
+						if CurrentSound then
+							local Volume = CurrentSound['PlaybackLoudness']
+							local Iterator=math.rad(Spin+(K*(360/#Visualizer)))
+							local Z = _G.Distance + Volume / (1 ~= 100 and (100 - 1) or .01)
+							local G =  Volume / (35 ~= 100 and (100 - 35) or .01)
+							local P = CFrame.new(Root['Position']) * AngleFromSettings(Iterator,_G.VisAngle) * CFrame.new(0,0,Z)
+							local AddVector =Vector3.new(0,0,0)
+							if _G.WavesOn == "On" then
+								AddVector=VectorFromSettings(math.sin((((dt*_G.WaveInt)+(K/#Visualizer)*(math.pi*2)))),_G.WavesAngle)
+							end
+							V['Position'] = P.p+AddVector
+							V['Rotation'] = CF2V(CFrame.new(V.Position, Root['Position'] + Vector3.new(0, G, 0)))
+						end
+						Spin+=_G.Speed
+						game:service'RunService'.RenderStepped:Wait()
+					until Stopped or ((Spin >= 360)) 
+				until Stopped
+				ccc:Disconnect()
+			end)()
+		end
+	end
+	script.Parent.MouseButton1Click:Connect(function()
+		vis(script.Parent.Parent.AudioId.Text:gsub("%D+", ""),0)
+	end)
+end
+coroutine.wrap(DBGS_fake_script)()
+local function YUCXPRS_fake_script() -- TextBox_2.LocalScript 
+	local script = Instance.new('LocalScript', TextBox_2)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		local Backpack=game.Players.LocalPlayer.Backpack
+		local lp=game.Players.LocalPlayer
+		local tosync=false
+		local tt=0
+		for i,v in pairs(Backpack:GetChildren()) do
+			if v:IsA("Tool") then
+				tt=tt+1
+			end
+		end
+		local t = {}
+		for i,v in pairs(Backpack:GetChildren()) do
+			if v:IsA("Tool") then
+				coroutine.wrap(function()
+					if v.Handle:FindFirstChildOfClass("Sound") then
+						v.Handle:FindFirstChildOfClass("Sound"):Destroy()
+					end
+					v.Parent=lp.Character
+					v:FindFirstChildOfClass("RemoteEvent"):FireServer("PlaySong",(script.Parent.Parent.AudioId.Text:gsub("%D+", "")))
+					repeat wait() until v.Handle:FindFirstChildOfClass("Sound")
+					repeat wait() until v.Handle:FindFirstChildOfClass("Sound").IsPlaying
+					v.Handle:FindFirstChildOfClass("Sound").Playing=false
+					table.insert(t,v)
+				end)()
+			end
+		end
+		repeat game:service'RunService'.Heartbeat:Wait() until #t==tt
+		wait(1)
+		for i,v in pairs(t) do
+			coroutine.wrap(function()
+				v.Handle:FindFirstChildOfClass("Sound").TimePosition=0
+				v.Handle:FindFirstChildOfClass("Sound").Playing=true
+			end)()
+		end
+		print("done")
+	end)
+end
+coroutine.wrap(YUCXPRS_fake_script)()
+local function UTKJKGJ_fake_script() -- MAX.LocalScript 
+	local script = Instance.new('LocalScript', MAX)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		_G.VisAngle=script.Parent.Name:gsub("MA","")
+	end)
+	while wait() do
+		if script.Parent.Name=="MA"..tostring(_G.VisAngle) then
+			script.Parent.BackgroundTransparency=0
+			script.Parent.TextColor3=Color3.fromRGB(53, 53, 53)
+		else
+			script.Parent.BackgroundTransparency=1
+			script.Parent.TextColor3=Color3.fromRGB(255,255,255)
+		end
+	end
+end
+coroutine.wrap(UTKJKGJ_fake_script)()
+local function TFNVJA_fake_script() -- MAY.LocalScript 
+	local script = Instance.new('LocalScript', MAY)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		_G.VisAngle=script.Parent.Name:gsub("MA","")
+	end)
+	while wait() do
+		if script.Parent.Name=="MA"..tostring(_G.VisAngle) then
+			script.Parent.BackgroundTransparency=0
+			script.Parent.TextColor3=Color3.fromRGB(53, 53, 53)
+		else
+			script.Parent.BackgroundTransparency=1
+			script.Parent.TextColor3=Color3.fromRGB(255,255,255)
+		end
+	end
+end
+coroutine.wrap(TFNVJA_fake_script)()
+local function OZTLZI_fake_script() -- MAZ.LocalScript 
+	local script = Instance.new('LocalScript', MAZ)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		_G.VisAngle=script.Parent.Name:gsub("MA","")
+	end)
+	while wait() do
+		if script.Parent.Name=="MA"..tostring(_G.VisAngle) then
+			script.Parent.BackgroundTransparency=0
+			script.Parent.TextColor3=Color3.fromRGB(53, 53, 53)
+		else
+			script.Parent.BackgroundTransparency=1
+			script.Parent.TextColor3=Color3.fromRGB(255,255,255)
+		end
+	end
+end
+coroutine.wrap(OZTLZI_fake_script)()
+local function JDOBGR_fake_script() -- WAX.LocalScript 
+	local script = Instance.new('LocalScript', WAX)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		_G.WavesAngle=script.Parent.Name:gsub("WA","")
+	end)
+	while wait() do
+		if script.Parent.Name=="WA"..tostring(_G.WavesAngle) then
+			script.Parent.BackgroundTransparency=0
+			script.Parent.TextColor3=Color3.fromRGB(53, 53, 53)
+		else
+			script.Parent.BackgroundTransparency=1
+			script.Parent.TextColor3=Color3.fromRGB(255,255,255)
+		end
+	end
+end
+coroutine.wrap(JDOBGR_fake_script)()
+local function DCNSPIX_fake_script() -- WAY.LocalScript 
+	local script = Instance.new('LocalScript', WAY)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		_G.WavesAngle=script.Parent.Name:gsub("WA","")
+	end)
+	while wait() do
+		if script.Parent.Name=="WA"..tostring(_G.WavesAngle) then
+			script.Parent.BackgroundTransparency=0
+			script.Parent.TextColor3=Color3.fromRGB(53, 53, 53)
+		else
+			script.Parent.BackgroundTransparency=1
+			script.Parent.TextColor3=Color3.fromRGB(255,255,255)
+		end
+	end
+end
+coroutine.wrap(DCNSPIX_fake_script)()
+local function DZJU_fake_script() -- WAZ.LocalScript 
+	local script = Instance.new('LocalScript', WAZ)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		_G.WavesAngle=script.Parent.Name:gsub("WA","")
+	end)
+	while wait() do
+		if script.Parent.Name=="WA"..tostring(_G.WavesAngle) then
+			script.Parent.BackgroundTransparency=0
+			script.Parent.TextColor3=Color3.fromRGB(53, 53, 53)
+		else
+			script.Parent.BackgroundTransparency=1
+			script.Parent.TextColor3=Color3.fromRGB(255,255,255)
+		end
+	end
+end
+coroutine.wrap(DZJU_fake_script)()
+local function UMKP_fake_script() -- WavesOn.LocalScript 
+	local script = Instance.new('LocalScript', WavesOn)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		if "Waves".._G.WavesOn==script.Parent.Name then
+			_G.WavesOn="Off"
+		else
+			_G.WavesOn="On"
+		end
+	end)
+	while wait() do
+		if script.Parent.Name=="Waves"..tostring(_G.WavesOn) then
+			script.Parent.BackgroundColor3=Color3.fromRGB(255, 255, 127)
+		else
+			script.Parent.BackgroundColor3=Color3.fromRGB(31,31,31)
+		end
+	end 
+end
+coroutine.wrap(UMKP_fake_script)()
+local function GKDLP_fake_script() -- Distance.LocalScript 
+	local script = Instance.new('LocalScript', Distance)
+
+	_G[script.Parent.Name]=5
+	script.Parent.Changed:Connect(function(t)
+		if t=="Text" then
+			_G[script.Parent.Name]=tonumber(script.Parent.Text) or 0
+		end
+	end)
+end
+coroutine.wrap(GKDLP_fake_script)()
+local function WNBNQ_fake_script() -- WaveInt.LocalScript 
+	local script = Instance.new('LocalScript', WaveInt)
+
+	_G[script.Parent.Name]=3
+	script.Parent.Changed:Connect(function(t)
+		if t=="Text" then
+			_G[script.Parent.Name]=tonumber(script.Parent.Text) or 0
+		end
+	end)
+end
+coroutine.wrap(WNBNQ_fake_script)()
+local function WYFU_fake_script() -- Speed.LocalScript 
+	local script = Instance.new('LocalScript', Speed)
+
+	_G[script.Parent.Name]=1
+	script.Parent.Changed:Connect(function(t)
+		if t=="Text" then
+			_G[script.Parent.Name]=tonumber(script.Parent.Text) or 0
+		end
+	end)
+end
+coroutine.wrap(WYFU_fake_script)()
+local function MDGLVEO_fake_script() -- Frame.LocalScript 
+	local script = Instance.new('LocalScript', Frame)
+
+	_G.VisAngle="X"
+	_G.WavesOn="Off"
+	_G.WavesAngle="Y"
+	_G.BoomboxDependantSpeed="Off"
+end
+coroutine.wrap(MDGLVEO_fake_script)()
+local function JZFN_fake_script() -- Frame.Dragify 
+	local script = Instance.new('LocalScript', Frame)
+
+	local UIS = game:GetService("UserInputService")
+	function dragify(Frame)
+	    dragToggle = nil
+	    local dragSpeed = 0.50
+	    dragInput = nil
+	    dragStart = nil
+	    local dragPos = nil
+	    function updateInput(input)
+	        local Delta = input.Position - dragStart
+	        local Position = UDim2.new(startPos.X.Scale, startPos.X.Offset + Delta.X, startPos.Y.Scale, startPos.Y.Offset + Delta.Y)
+	        game:GetService("TweenService"):Create(Frame, TweenInfo.new(0), {Position = Position}):Play()
+	    end
+	    Frame.InputBegan:Connect(function(input)
+	        if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) and UIS:GetFocusedTextBox() == nil then
+	            dragToggle = true
+	            dragStart = input.Position
+	            startPos = Frame.Position
+	            input.Changed:Connect(function()
+	                if input.UserInputState == Enum.UserInputState.End then
+	                    dragToggle = false
+	                end
+	            end)
+	        end
+	    end)
+	    Frame.InputChanged:Connect(function(input)
+	        if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+	            dragInput = input
+	        end
+	    end)
+	    game:GetService("UserInputService").InputChanged:Connect(function(input)
+	        if input == dragInput and dragToggle then
+	            updateInput(input)
+	        end
+	    end)
+	end
+	
+	dragify(script.Parent)
+end
+coroutine.wrap(JZFN_fake_script)()
+local function CIGR_fake_script() -- TextBox_3.LocalScript 
+	local script = Instance.new('LocalScript', TextBox_3)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		for i=1,tonumber(script.Parent.Parent.Amount.Text) or 1 do
+			char=game.Players.LocalPlayer.Character
+			game.Players.LocalPlayer.Character=nil
+			game.Players.LocalPlayer.Character=char
+			char.Animate:Destroy()
+			char.HumanoidRootPart.CFrame=CFrame.new(0,9999,0)
+			wait(.1)
+			char.HumanoidRootPart.Anchored=true
+			for i,v in pairs(char:GetChildren()) do
+				if v:IsA("Tool") then
+					v.Parent=game.Players.LocalPlayer.Backpack
+				end
+			end
+			wait(game.Players.RespawnTime-0.3)
+			local t = {}
+			for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+				v.Parent=char
+				v.Parent=workspace
+				t[i]=v
+			end
+			char.Humanoid:Destroy()
+			game.Players.LocalPlayer.Character=nil
+			game.Players.LocalPlayer.CharacterAdded:Wait()
+			char=game.Players.LocalPlayer.Character
+			char:WaitForChild("Humanoid")
+			wait(.1)
+			for i,v in pairs(t) do
+				char.Humanoid:EquipTool(v)
+			end
+			wait(.3)
+		end	
+	end)
+end
+coroutine.wrap(CIGR_fake_script)()
+local function KOHXP_fake_script() -- TextBox_4.LocalScript 
+	local script = Instance.new('LocalScript', TextBox_4)
+
+	_G.grabtools=false
+	game:service'RunService'.Heartbeat:Connect(function()
+		local h=game.Players.LocalPlayer.Character:FindFirstChild("Humanoid")
+		if _G.grabtools==true and h then
+			for i,v in pairs(workspace:GetChildren()) do
+				coroutine.wrap(function()
+					if v:IsA("Tool") then
+						h:EquipTool(v)
+					end	
+				end)()
+			end
+		end
+	end)
+	spawn(function()
+		while wait() do
+			if _G.grabtools==true then
+				script.Parent.TextColor3=Color3.fromRGB(53, 53, 53)
+				script.Parent.BackgroundColor3=Color3.fromRGB(255, 255, 127)
+			else
+				script.Parent.TextColor3=Color3.fromRGB(255,255,255)
+				script.Parent.BackgroundColor3=Color3.fromRGB(20, 20, 20)
+			end
+		end 	
+	end)
+	script.Parent.MouseButton1Click:Connect(function()
+		_G.grabtools=not _G.grabtools
+	end)
+end
+coroutine.wrap(KOHXP_fake_script)()
+local function LPDFVEO_fake_script() -- TextBox_5.LocalScript 
+	local script = Instance.new('LocalScript', TextBox_5)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		print(pcall(function()
+			for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+				if v:IsA("Tool") and v:FindFirstChildOfClass("Part"):FindFirstChildOfClass("Sound") then
+					coroutine.wrap(function()
+						v:FindFirstChildOfClass("Part"):FindFirstChildOfClass("Sound").Playing=false
+						wait()
+						v:FindFirstChildOfClass("Part"):FindFirstChildOfClass("Sound").TimePosition=0
+						v:FindFirstChildOfClass("Part"):FindFirstChildOfClass("Sound").Playing=true
+					end)()
+				end
+			end
+		end))
+	end)
+end
+coroutine.wrap(LPDFVEO_fake_script)()
+    print("Clicked")
+end)
+Section:NewButton("FantaHub", "Execute fantahub audio loggar AND antisteal", function()loadstring(game:HttpGet("https://pastebin.com/raw/wN9Q3pZm",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kyakuryc/fanta-hub/main/fanta_hub_raw.txt",true))()
+
+local UI = loadstring(game:HttpGet('https://raw.githubusercontent.com/antisteal/antisteal-main/master/ui.lua', true))()
+
+local Players = game:GetService'Players'
+local LocalPlayer = Players.LocalPlayer
+
+local HttpService = game:GetService'HttpService'
+local IsA, WaitForChild = game.IsA, game.WaitForChild
+
+local RunService = game:GetService'RunService'
+local MarketplaceService = game:GetService'MarketplaceService'
+
+local Rand = Random.new()
+local NextInt = Rand.NextInteger
+
+local Settings = {
+    Encode = true,
+    Hex = true,
+    Message = 'i am cool (me: ' .. LocalPlayer.Name .. ')',
+    AssetId = ''
+}
+
+local SaveSettings = function()
+    writefile('AntistealSettings.json', HttpService:JSONEncode(Settings))
+end
+
+if not isfile('AntistealSettings.json') then
+    SaveSettings()
+end
+
+Settings = HttpService:JSONDecode(readfile('AntistealSettings.json'))
+
+local RemoteArg = (game.PlaceId == 455366377 or game.PlaceId == 4669040 and 'play') or 'PlaySong'
+
+local Encode = function(AssetId)
+    Settings.AssetId = AssetId
+    return game:HttpPost('https://dot-mp4.dev/free/anti-steal.php', HttpService:JSONEncode(Settings))
+end
+
+local SyncTime = 0
+local Sync = function(Time)
+    local Character = LocalPlayer.Character
+    if not Character then
+        return UI.Notify:new('Warning', 'No Character.')
+    end
+
+    local Selected = Character:FindFirstChildOfClass'Tool'
+    if not Selected then
+        return UI.Notify:new('Warning', 'No tool to sync from found.')
+    end
+
+    local Sound; do
+        repeat
+            local SelectedDescendants = Selected:GetDescendants()
+            for I = 1, #SelectedDescendants do
+                local V = SelectedDescendants[I]
+                if IsA(V, 'Sound') and V.IsLoaded and V.TimeLength > 0 and V.SoundId:match('DMakTbZ') then
+                    Sound = V; break;
+                end
+            end
+            wait(.06)
+        until Sound
+    end
+
+    local CharacterDescendants = Character:GetDescendants()
+    for I = 1, #CharacterDescendants do
+        local V = CharacterDescendants[I]
+        if IsA(V, 'Sound') then
+            V.TimePosition = Time or (math.round(Sound.TimePosition) - .5)
+        end
+    end
+end
+
+local MassPlay = function(AssetId)
+    local Character = LocalPlayer.Character
+    if Character then
+        local Humanoid = Character:FindFirstChildOfClass('Humanoid')
+        if Humanoid then
+            Humanoid:UnequipTools()
+            
+            local EncodedId = Encode(AssetId)
+
+            local Tools = {}; do
+                for _, Tool in next, LocalPlayer.Backpack:GetChildren() do
+                    if Tool.Name:lower():match('boombox') then
+                        Tools[#Tools+1] = Tool
+                    end
+                end
+            end
+
+            local Selected = Tools[1]
+
+            for _, Tool in next, Tools do
+                Tool.Parent = Character
+            end
+
+            wait(.2)
+
+            for _, Tool in next, Tools do
+                local Remote = Tool:FindFirstChildOfClass('RemoteEvent')
+                if Remote then
+                    Remote:FireServer(RemoteArg, EncodedId)
+                end
+            end
+
+            wait(2)
+
+            Sync()
+        end
+    end
+end
+
+local Duping, DupeAmount = false, 8
+
+local Dupe = function(Amount)
+    UI.Notify:new('Dupe', ('Amount: %s'):format(Amount))
+
+    Duping = true
+
+    local Character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
+    local Humanoid = WaitForChild(Character, 'Humanoid', 10)
+
+    if not Humanoid then
+        return UI.Notify:new('Warning', 'No compatible humanoid found.')
+    end
+
+    local Root = WaitForChild(Character, 'HumanoidRootPart', 10)
+
+    if not Root then
+        return UI.Notify:new('Warning', 'No root found.')
+    end
+
+    do
+        local FoundTools = {}
+        Humanoid:UnequipTools()
+
+        for _, Tool in next, LocalPlayer.Backpack:GetChildren() do
+            if Tool.Name:lower():match('boombox') then
+                table.insert(FoundTools, Tool)
+            end
+        end
+
+        if #FoundTools < 1 then
+            return UI.Notify:new('Error', 'You do not have any compatible tools to dupe.')
+        end
+    end
+
+    local FoundTools = {}
+
+    local RCF = Root.CFrame
+
+    local GrabTool = function(Tool)
+        Tool.Handle.Anchored = false
+
+        Tool.Handle.CFrame = LocalPlayer.Character.HumanoidRootPart.CFrame
+
+        pcall(firetouchinterest, Root, Tool.Handle, 0)
+    end
+
+    for IDX = 1, Amount do
+        if not Duping then
+            break
+        end
+
+        local CCF = CFrame.new(NextInt(Rand, -2e4, 2e4), 2e4, NextInt(Rand, -2e4, 2e4))
+
+        wait(.2)
+
+        Root.CFrame = CCF
+
+        wait(.2)
+
+        Root.Anchored = true
+        
+        wait(.2)
+
+        for _, Tool in next, LocalPlayer.Backpack:GetChildren() do
+            if Tool.Name:lower():match'boombox' then
+                Tool.Parent = Character
+                Tool.Handle.Anchored = true
+                table.insert(FoundTools, Tool)
+            end
+        end
+
+        wait(.2)
+
+        for I = 1, #FoundTools do
+            Root.CFrame = Root.CFrame
+            FoundTools[I].Parent = workspace
+        end
+
+        wait(.2)
+
+        Character:BreakJoints()
+
+        Character = LocalPlayer.CharacterAdded:Wait()
+        LocalPlayer.CharacterAppearanceLoaded:Wait()
+
+        Root = WaitForChild(Character, 'HumanoidRootPart')
+        Humanoid = WaitForChild(Character, 'Humanoid')
+    end
+
+    UI.Notify:new('Dupe complete.', ('Finished with %s tools. %s of them were stolen.'):format(#FoundTools, (function() 
+        local StolenTools = 0
+        
+        for _, Tool in next, FoundTools do
+            if Tool.Parent ~= workspace and Tool.Parent ~= Character and Tool.Parent ~= LocalPlayer.Backpack then
+                StolenTools = StolenTools + 1
+            end
+        end
+
+        if StolenTools == #FoundTools then
+            return 'All'
+        end
+
+        if StolenTools == 0 then
+            return 'None'
+        end
+
+        return tostring(StolenTools)
+    end)()))
+
+    for _, Tool in next, FoundTools do
+        GrabTool(Tool)
+    end
+
+    Root.CFrame = RCF
+end
+
+local ASUI = UI:new({
+    Name = 'antisteal - release v7.33',
+    Tab = {
+        Text = 'Main',
+        Section2 = {
+            SectionText = 'Other',
+            MassPlayButton = {
+                'Mass Play',
+                function()
+                    MassPlay(Settings.AssetId)
+                end
+            },
+            DupeAmountBox = {
+                'Dupe Amount [D: 8]',
+                function(Amount)
+                    DupeAmount = tonumber(Amount) or 8
+                end
+            },
+            DupeButton = {
+                'Dupe',
+                function()
+                    Dupe(DupeAmount)
+                end
+            },
+            CDupeButton = {
+                'Cancel Dupe',
+                function()
+                    Duping = false
+                end
+            },
+            SyncTimeBox = {
+                'Sync Time [D: 0]',
+                function(Time)
+                    SyncTime = tonumber(Time) or nil
+                end
+            },
+            SyncButton = {
+                'Sync',
+                function()
+                    Sync(SyncTime)
+                end
+            }
+        },
+        Section1 = {
+            SectionText = 'Anti-Log',
+            AssetBox = {
+                'Set Asset Id',
+                function(AssetId)
+                    if tonumber(AssetId) and pcall(MarketplaceService.GetProductInfo, MarketplaceService, tonumber(AssetId)) and MarketplaceService:GetProductInfo(tonumber(AssetId)).Name then
+                        UI.Notify:new('Success', 'Your selected AssetId has been set to "' .. AssetId .. '"', 5)
+                        Settings.AssetId = AssetId
+                        return
+                    end
+                        
+                    UI.Notify:new('Failed', 'Not a valid AssetId', 5)
+                end
+            },
+            EncodeToggle = {
+                'Encode Baits',
+                Settings.Encode,
+                'Encode',
+                function(Bool)
+                    Settings.Encode = Bool
+                    SaveSettings()
+                end
+            },
+            HexToggle = {
+                'Hex',
+                Settings.Hex,
+                'Hex',
+                function(Bool)
+                    Settings.Hex = Bool
+                    SaveSettings()
+                end
+            },
+            MessageBox = {
+                'Custom Message',
+                function(Message)
+                    Settings.Message = Message
+                end
+            },
+            PlayButton = {
+                'Play',
+                function()
+                    local Character = LocalPlayer.Character
+                    if Character then
+                        local Radio = Character:FindFirstChildOfClass'Tool' or (function() 
+                            for _, Tool in next, LocalPlayer.Backpack:GetChildren() do
+                                if Tool.Name:lower():match'boombox' then
+                                    return Tool
+                                end
+                            end
+                        end)()
+
+                        if Radio then
+                            Radio.Parent = Character
+                            local Remote = Radio:FindFirstChildOfClass'RemoteEvent'
+                            if Remote then
+                                local EncodedId = Encode(Settings.AssetId)
+
+                                if EncodedId then
+                                    return Remote:FireServer(RemoteArg, EncodedId)
+                                end
+
+                                return UI.Notify:new('Failed', 'Your audio didnt encode properly.')
+                            end
+
+                            return UI.Notify:new('Failed', 'Your radio is incompatible.')
+                        end
+
+                        return UI.Notify:new('Failed', 'Your radio is incompatible or none have been found.')
+                    end
+                end
+            }
+        }
+    }
+})
+
+local UserInputService = game:GetService'UserInputService'
+
+UserInputService.InputBegan:Connect(function(InputObject)
+    if not UserInputService:GetFocusedTextBox() then
+        if InputObject.KeyCode == Enum.KeyCode.J then
+            ASUI.Enabled = not ASUI.Enabled 
+        end
+    end
+end)
+    print("Clicked")
+end)
+Section:NewButton("BoomBox on back", "Click when boombox is not equipted", function()loadstring(game:HttpGet("https://txtpaste.com/raw/e1wO6bMmtt"))()
+    print("Clicked")
+end)
+
+--reanimaters
+local Tab = Window:NewTab("reanimaters")
+local Section = Tab:NewSection("reanimaters")
+Section:NewButton("MitzHub", "Execute mtzhub synapse only", function()_G.PowerfulNet = false -- Turn on if u want best net, BUT SUPER LAGGY
+_G.Jitteryness = Vector3.new(0,0,30) -- set it to high value if ur part fall, default is -30
+_G.CustomGui = false -- if you have custom gui turn this on, put the custom gui script below this loadstring
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Sylixe/MiztHub/master/MainFolder/uqXAxyVdQpWTcRCdFXU6Yt2meuDkYcLUDN4SJRekQWZ5wp368zKHreYT4w82AH4U.lua",true))()
+    print("Clicked")
+end)
+Section:NewButton("Nullware", "Execute NullwareHub", function()loadstring(game:HttpGet("https://gist.githubusercontent.com/M6HqVBcddw2qaN4s/37eef2120d509b37b31fa73944ab2361/raw/kT2fVEFnzDfCRXAP"))()
+    print("Clicked")
+end)
+Section:NewButton("Nullwarev2", "Execute nullwarehubv2", function()loadstring(game:HttpGetAsync("https://gist.githubusercontent.com/M6HqVBcddw2qaN4s/dabc2500988785fbec1ce7c7aaee105d/raw/hVQJXfF4sR6yqSfJ"))()
+    print("Clicked")
+end)
+
+
+
+
+--game
+local Tab = Window:NewTab("Game")
+local Section = Tab:NewSection("Game")
+Section:NewButton("Rejoinv1", "Rejoinv2", function()    game:GetService("TeleportService"):Teleport(game.PlaceId)
+    print("Clicked")
+end)
+Section:NewButton("Rejoinv2", "Rejoin", function()game:GetService("TeleportService"):Teleport(game.PlaceId, game.Players.LocalPlayer)
+    print("Clicked")
+end)
+Section:NewButton("Serverhop", "90% chance server hop", function()   local GUIDs = {}
+        local Http = game:GetService("HttpService"):JSONDecode(game:HttpGet("https://games.roblox.com/v1/games/"..game.PlaceId.."/servers/Public?sortOrder=Asc&limit=100&cursor="))
+        for i = 1,100 do
+        	for i,v in pairs(Http.data) do
+        		if v.playing ~= v.maxPlayers then
+        			table.insert(GUIDs, {id = v.id, users = v.playing})
+        		end
+        	end
+        	if Http.nextPageCursor ~= null then Http = game:GetService("HttpService"):JSONDecode(game:HttpGet("https://games.roblox.com/v1/games/"..game.PlaceId.."/servers/Public?sortOrder=Asc&limit=100&cursor="..Http.nextPageCursor)) else break end
+        end
+        pcall(function()game:GetService("TeleportService"):TeleportToPlaceInstance(game.PlaceId, GUIDs[math.random(1,#GUIDs)].id, game:GetService("Players").LocalPlayer)end)
+        wait(3)
+
+newServer()
+    print("Clicked")
+end)
+Section:NewButton("120 fov", "zoom", function()workspace.CurrentCamera.FieldOfView = 120
+end)
+
+
+
+--Player
+local Tab = Window:NewTab("Player")
+local PlayerSection = Tab:NewSection("Player")
+PlayerSection:NewSlider("WalkSpeed", "Changes WalkSpeed", 500, 16, function(v) -- 500 (MaxValue) | 0 (MinValue)
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = v
+end)
+ PlayerSection:NewSlider("Jump Power", "Changes Jump", 500, 50, function(v) -- 500 (MaxValue) | 0 (MinValue)
+    game.Players.LocalPlayer.Character.Humanoid.JumpPower = v
+ end)
+
+Section:NewButton("non fe headless", "headless", function()game.Players.LocalPlayer.Character.Head.Transparency = 1
+for i,v in pairs(game.Players.LocalPlayer.Character.Head:GetChildren()) do
+if (v:IsA("Decal")) then
+v:Destroy()
+end
+end
+    print("Clicked")
+end)
+ Section:NewButton("LagSwitch x", "toggle lagswitch with x", function()_G.key = Enum.KeyCode.X -- Change to whatever if you don't know Keycode go to roblox api doc
+
+loadstring(game:HttpGet("https://paste.gg/p/anonymous/cb1c7198b269449eb8a2cf8ced061bed/files/4a98e88f82ee47388b3030a7f000b34e/raw", true))()
+    print("Clicked")
+end)
+
+
+
+--admin
+local Tab = Window:NewTab("Admin")
+local Section = Tab:NewSection("Admin")
+Section:NewButton("InfYeild", "InfYeildAdmin", function()loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+    print("Clicked")
+end)
+Section:NewButton("MetaAdmin", "Run MetaAdmin", function()local Script = ("https://raw.githubusercontent.com/misanthropic2005/MuteHandle/main/Main/Index.lua")
+local WebBody = game:HttpGet(Script)
+local WebLoadstring = loadstring(WebBody)
+
+WebLoadstring()
+    print("Clicked")
+end)
+Section:NewButton("Cmd x admin", "Run the cmd x admin", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source",true))()
+    print("Clicked")
+end)
+Section:NewButton("Fates", "Fatesadmin", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/fatesc/fates-admin/main/main.lua"))();
+    print("Clicked")
+end)
+
+--dahood
+local Tab = Window:NewTab("DaHood")
+local Section = Tab:NewSection("DaHood")
+Section:NewButton("Swagmode", "Execute swagmode", function()loadstring(game:HttpGet('https://raw.githubusercontent.com/lerkermer/lua-projects/master/SwagModeV002'))() 
+    print("Clicked")
+end)
+Section:NewButton("Dahood lowgfx", "low GFX", function()_G.Quality = 1 -- ROBLOX QUALITY IN ESC
+_G.Transparency = 1-- TRANSPARENCY OF MODELS
+loadstring(game:HttpGet('https://raw.githubusercontent.com/lxyodevelopment/dahoodscript/main/lowergfx'))()
+    print("Clicked")
+end)
+Section:NewButton("Artic", "Artic", function()loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Karz1337/Arctic/main/ArcticV2"))()
+    print("Clicked")
+end)
+Section:NewButton("fast crash", "fastcrash", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/NighterEpic/Crash/main/YesEpic", true))()
+    print("Clicked")
+end)
+
+-- cracked stuff
+local Tab = Window:NewTab("crackedscripts")
+local Section = Tab:NewSection("crackedscripts")
+Section:NewButton("cracked for dexx", "Use synapse and run before dexx", function()loadstring(game:HttpGet('https://raw.githubusercontent.com/nadic/DexxsAdmin/main/cracker.lua'))()
+    print("Clicked")
+end)
+Section:NewButton("Dexx admin", "run after the cracker", function()loadstring(game:HttpGet('https://raw.githubusercontent.com/nadic/DexxsAdmin/main/dexxadmin.lua'))()
+    print("Clicked")
+end)
+Section:NewButton("KittenAssist", "op dh aimlock", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/machport/Resources/main/assist.lua"))()
+    print("Clicked")
+end)
+Section:NewButton("boomboxhub", "boomboxhub", function()loadstring(game:HttpGet("https://gist.githubusercontent.com/cyberical9B55/a282c6381c12f772779a8f99e3a912b2/raw/cf15478e5cb8f4a79778bce7c209668d6fb6649b/boom"))()
+    print("Clicked")
+end)
+
+--breaking point 
+local Tab = Window:NewTab("Breakingpoint")
+local Section = Tab:NewSection("Breakingpoint")
+Section:NewButton("Breakingpoint 1", "v1", function()pcall(function()
+loadstring(game:HttpGet("https://gist.githubusercontent.com/cyberical9B55/dc387f5d305b49867c755979ca14303f/raw/72a622b2e99c7294ec404c05f4471817849748a3/breaking%2520pint%25201"))()
+end)
+    print("Clicked")
+end)
+Section:NewButton("Breaking point 2", "v2", function()pcall(function()
+loadstring(game:HttpGet("https://gist.githubusercontent.com/cyberical9B55/3e49ad110ba21ffa3914e8c0eea1040e/raw/1884eafab327be7d1e4cea3fac95dea93441312c/breaking%2520point%25202"))()
+end)
+    print("Clicked")
+end)
+
+--aimbot 
+local Tab = Window:NewTab("aimbot")
+local Section = Tab:NewSection("aimbot")
+Section:NewButton("OwlHub", "OwlHub", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))()
+
+    print("Clicked")
+end)
+Section:NewButton("Aimbotv2", "univeral aimbot", function()--[[
+pcall(function()
+    loadstring(game:HttpGet('https://pastebin.com/raw/WvF4aN6G', true))()
+end)
+]]--
+local library = loadstring(game:HttpGet(('https://pastebin.com/raw/FsJak6AT')))()
+local first_w = library:CreateWindow('Universal Aimbot!')
+local first_f = first_w:CreateFolder('Aimbot settings')
+local aimbot = false
+local accAimbot = false
+local toggleKey = 'MouseButton2'
+first_f:Toggle('Aimbot', function(a)
+    accAimbot = a
+    if not a then
+        aimbot = false
+    end
+end)
+local ffa = false
+local espStuff = false
+first_f:Toggle('FFA', function(a)
+    ffa = a
+    espStuff = a
+end)
+local targetPrt = "Head"
+first_f:Dropdown('Target part', {"Head", "HumanoidRootPart"}, function(a)
+    targetPrt = a
+end)
+local toggleEsp = false
+local esp_f = first_w:CreateFolder('Esp settings')
+esp_f:Toggle('Esp', function(a)
+    toggleEsp = a
+end)
+local debugMode = false
+local debug_f = first_w:CreateFolder('Debug stuff')
+debug_f:Toggle('Debug mode', function(a)
+    debugMode = a
+end)
+local cc = game.workspace.CurrentCamera
+function pos(a)
+    return cc:WorldToViewportPoint(a)
+end
+local mouse = game.Players.LocalPlayer:GetMouse()
+game:GetService("UserInputService").InputBegan:connect(function(a)
+    if (a.UserInputType == Enum.UserInputType[toggleKey]) and accAimbot then
+        warn("a")
+        aimbot = true
+    end
+end)
+game:GetService("UserInputService").InputEnded:connect(function(a)
+    if (a.UserInputType == Enum.UserInputType[toggleKey]) and accAimbot then
+        warn("b")
+        aimbot = false
+    end
+end)
+function getClosestMouse(trg_part)
+    local nearest = nil  
+    local last = math.huge
+    for i,v in pairs(game.Players:GetPlayers()) do 
+        if v ~= game.Players.LocalPlayer and game.Players.LocalPlayer.Character and v.Character and v.Character:FindFirstChild(trg_part) and (v.TeamColor ~= game.Players.LocalPlayer.TeamColor or espStuff) then 
+            if game.Players.LocalPlayer.Character:FindFirstChild(trg_part) then
+                local lmao = true
+                if checkIfObscured then
+                    local ignoreList = {game.Players.LocalPlayer.Character, v.Character}
+                    local cast = {game.Players.LocalPlayer.Character[trg_part].Position, v.Character[trg_part].Position}
+                    local parts = cc:GetPartsObscuringTarget(cast, ignoreList)
+                    if #parts ~= 0 then
+                        lmao = false
+                    end
+                end
+                local ePos = pos(v.Character[trg_part].Position)
+                local AccPos = Vector2.new(ePos.x, ePos.y)
+                local mousePos = Vector2.new(cc.ViewportSize.x / 2, cc.ViewportSize.y / 2)
+                local distance = (AccPos - mousePos).magnitude
+                if distance < last and lmao then
+                    last = distance
+                    nearest = v
+                end
+            end
+        end
+    end
+    if nearest ~= nil then
+        if game.PlaceId == 292439477 then
+            for i,v in pairs(game.workspace.Players:GetChildren()) do
+                if v:FindFirstChild(nearest.Name) then 
+                    return nearest
+                end
+            end
+        else
+            return nearest
+        end
+    end
+end
+game:GetService('RunService').Stepped:connect(function()
+    if aimbot then
+        if getClosestMouse(targetPrt) ~= nil and getClosestMouse(targetPrt).Character ~= nil then
+            local move, vis = pos(getClosestMouse(targetPrt).Character[targetPrt].Position)
+            if vis then
+                mousemoverel((move.x - mouse.x) * 0.2, ((move.y * 0.93) - mouse.y) * 0.2)
+            end
+        end
+    end
+end)
+local test = {}
+local linePlrs = {}
+local textPlrs = {}
+game:GetService("RunService").RenderStepped:connect(function()
+    if toggleEsp then
+        for i,v in pairs(game.Players:GetPlayers()) do
+            if test[v.Name] == nil then
+                table.insert(linePlrs, Drawing.new('Line'))
+                table.insert(textPlrs, Drawing.new('Text'))
+                test[v.Name] = true
+            end 
+            if v.Character and v.Character:FindFirstChild("HumanoidRootPart") and test[v.Name] ~= nil and v ~= game.Players.LocalPlayer and (v.TeamColor ~= game.Players.LocalPlayer.TeamColor or ffa) then
+                local testing = false
+                local hum, vis = pos(v.Character.HumanoidRootPart.Position)
+                linePlrs[i].From = Vector2.new(cc.ViewportSize.x / 2, cc.ViewportSize.y)
+                linePlrs[i].To = Vector2.new(hum.x, hum.y)
+                linePlrs[i].Thickness = 2
+                textPlrs[i].Size = 20
+                if game.Players.LocalPlayer.Character and game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart") then
+                    textPlrs[i].Text = tostring(math.floor((game.Players.LocalPlayer.Character.HumanoidRootPart.Position - v.Character.HumanoidRootPart.Position).magnitude))
+                end
+                textPlrs[i].Position = Vector2.new(hum.x, hum.y + 30)
+                if v.TeamColor ~= game.Players.LocalPlayer.TeamColor then
+                    linePlrs[i].Color = Color3.new(255,0,0)
+                    textPlrs[i].Color = Color3.new(255,0,0)
+                else
+                    linePlrs[i].Color = Color3.new(0,128,0)
+                    textPlrs[i].Color = Color3.new(0,128,0)
+                end
+                if game.PlaceId ~= 292439477 then
+                    linePlrs[i].Visible = vis
+                    textPlrs[i].Visible = vis
+                end
+                if game.PlaceId == 292439477 then
+                    for i2,v2 in pairs(game.workspace.Players:GetChildren()) do
+                        if v2:FindFirstChild(v.Name) then
+                            testing = true
+                        end
+                    end
+                    if not testing or not vis then
+                        linePlrs[i].Visible = false
+                        textPlrs[i].Visible = false
+                    elseif testing and vis then
+                        linePlrs[i].Visible = true
+                        textPlrs[i].Visible = true
+                    end
+                end
+            elseif v.Character and not v.Character:FindFirstChild("HumanoidRootPart") then
+                linePlrs[i].Visible = false
+                textPlrs[i].Visible = false
+            elseif not ffa then --(v.TeamColor ~= game.Players.LocalPlayer.TeamColor or ffa)
+                linePlrs[i].Visible = false
+                textPlrs[i].Visible = false
+            end
+        end
+    else
+        for i,v in pairs(linePlrs) do
+            v.Visible = false
+        end
+        for i,v in pairs(textPlrs) do
+            v.Visible = false
+        end
+    end
+end)
+local ScreenGui = Instance.new("ScreenGui")
+local Frame = Instance.new("Frame")
+local TextLabel = Instance.new("TextLabel")
+ScreenGui.Parent = game.CoreGui
+ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+Frame.Parent = ScreenGui
+Frame.BackgroundColor3 = Color3.new(1, 1, 1)
+Frame.Position = UDim2.new(0.717458367, 0, 0.128992632, 0)
+Frame.Size = UDim2.new(0, 401, 0, 140)
+TextLabel.Parent = Frame
+TextLabel.BackgroundColor3 = Color3.new(1, 1, 1)
+TextLabel.Position = UDim2.new(0.0994343385, 0, 0.22857143, 0)
+TextLabel.Size = UDim2.new(0, 320, 0, 75)
+TextLabel.Font = Enum.Font.SourceSans
+TextLabel.TextColor3 = Color3.new(0, 0, 0)
+TextLabel.TextScaled = true
+Frame.Visible = false
+local run = true
+function check(a)
+    local newTab = {}
+    for i,v in pairs(test) do
+        table.insert(newTab, i)
+        if i == a then
+            run = false
+            --print(i, table.find(newTab, a), '\n')
+            linePlrs[table.find(newTab, a)]:Remove()
+            textPlrs[table.find(newTab, a)]:Remove()
+            table.remove(linePlrs, table.find(newTab, a))
+            table.remove(textPlrs, table.find(newTab, a))
+            table.remove(newTab, table.find(newTab, a))
+            if debugMode then
+                TextLabel.Text = a .. "'s tracer should've gone away"
+                wait(1)
+                Frame.Visible = false
+            end
+            run = true
+        end
+    end
+end
+game.Players.PlayerRemoving:connect(function(a)
+    repeat wait() until run
+    if debugMode then
+        Frame.Visible = true
+        TextLabel.Text = a.Name .. " Left"
+    end
+    warn(a.Name, ' THIS WAS CALLED FROM SCRIPT OK ', '\n', 'lol')
+    wait(1)
+    check(a.Name)
+end)
+    print("Clicked")
+end)
+
+Section:NewKeybind("KeybindText", "KeybindInfo", Enum.KeyCode.P, function()
+	Library:ToggleUI()
+end)
