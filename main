@@ -1,11 +1,11 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("Cyberichub", "Midnight")
+local Window = Library.CreateLib("Made By Skids Hub Devs", "BloodTheme")
 
 
 local Tab = Window:NewTab("Credits")
 local Section = Tab:NewSection("Credits")
-Section:NewButton("Put together by 9B55#9999 and Yum#3130", "9B55#9999", function()
-    print("Cybericalhub has loaded")
+Section:NewButton("Put together by 9B55#9999 and Yum#3130", "9B55#9225", "DARK_MANE#7089" function()
+    print("Skids Hub has loaded")
 end)
 
 
