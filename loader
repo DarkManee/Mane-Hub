@@ -1,0 +1,80 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("Skids Hub V3", "BloodTheme")
+
+local Tab = Window:NewTab("Credits")
+local Section = Tab:NewSection("Credis Maker")
+Section:NewButton("made by 9B55#9225 and DARKMANE#7089", "we are cool fr", function()
+pcall(function()
+loadstring(game:HttpGet("https://pastebin.com/raw/vBEMLeih"))()
+end)
+end)
+
+local Tab = Window:NewTab("Main")
+local Section = Tab:NewSection("Scripts")
+Section:NewButton("Load VISUALIZER", "main", function()
+pcall(function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DarkManee/Mane-Hub/main/Skids%20Hub%20V1%20FREE"))();
+end)
+Library:ToggleUI()
+end)
+
+Section:NewButton("Universal Aimbot ESP", "universal", function()
+pcall(function()
+loadstring(game:HttpGet("https://pastebin.com/raw/3PN0uBA3"))()
+end)
+Library:ToggleUI()
+end)
+
+Section:NewButton("Prision Life V1", "Prision Breaker", function()
+pcall(function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DarkManee/Mane-Hub/main/PRISION%20LIFE"))();
+end)
+Library:ToggleUI()
+end)
+Section:NewButton("check discord for supported games", "pls do", function()
+setclipboard('https://discord.gg/TTurJFz8')
+local StarterGui = game:GetService("StarterGui")
+ 
+local Notifications = {
+    "join",
+ 
+}
+ 
+local TimeBetweenNotifications = 99999999999999999999999999999999
+while true do
+    for i = 1, #Notifications do
+        local Notification = Notifications[1]
+ 
+        StarterGui:SetCore("SendNotification", {
+            Title = "Join Discord",
+            Text = Notification,
+            Duration = 5
+        })
+ 
+        wait(TimeBetweenNotifications)
+    end
+end
+end)
+
+setclipboard('https://discord.gg/24kYCDh6wd')
+local StarterGui = game:GetService("StarterGui")
+ 
+local Notifications = {
+    "Welcome To Skids Hub V3!",
+ 
+}
+ 
+local TimeBetweenNotifications = 99999999999999999999999999999999
+while true do
+    for i = 1, #Notifications do
+        local Notification = Notifications[1]
+ 
+        StarterGui:SetCore("SendNotification", {
+            Title = "credits",
+            Text = Notification,
+            Duration = 5
+        })
+ 
+        wait(TimeBetweenNotifications)
+    end
+end
