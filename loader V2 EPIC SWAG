@@ -1,38 +1,159 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("Skids Hub V3", "BloodTheme")
+local Window = Library.CreateLib("Skids Hub V1", "BloodTheme")
 
-local Tab = Window:NewTab("Credits")
-local Section = Tab:NewSection("Credis Maker")
-Section:NewButton("made by 9B55#9225 and DARKMANE#7089", "we are cool fr", function()
+local Tab = Window:NewTab("credits")
+local Section = Tab:NewSection("credits")
+Section:NewButton("made by 9B55#9225 and DARKMANE#7089", "we are cool", function()
 pcall(function()
 loadstring(game:HttpGet("https://pastebin.com/raw/vBEMLeih"))()
 end)
 end)
 
 local Tab = Window:NewTab("Main")
-local Section = Tab:NewSection("Scripts")
-Section:NewButton("Load VISUALIZER", "main", function()
+local Section = Tab:NewSection("scripts")
+Section:NewButton("Load Main", "Main Visualizer", function()
 pcall(function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DarkManee/Mane-Hub/main/Skids%20Hub%20V1%20FREE"))();
 end)
 Library:ToggleUI()
 end)
 
-Section:NewButton("Universal Aimbot ESP", "universal", function()
+Section:NewButton("Universal ESP AIMBOT", "universal", function()
 pcall(function()
 loadstring(game:HttpGet("https://pastebin.com/raw/3PN0uBA3"))()
 end)
 Library:ToggleUI()
 end)
 
-Section:NewButton("Prision Life V1", "Prision Breaker", function()
+Section:NewButton("Real Boombox Hub ( ._ )", "Only Who Paid To This Hub", function()
 pcall(function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DarkManee/Mane-Hub/main/PRISION%20LIFE"))();
+loadstring(game:HttpGetAsync('https://riptxde.dev/u/hub/script.lua'))()
 end)
 Library:ToggleUI()
 end)
-Section:NewButton("check discord for supported games", "pls do", function()
-setclipboard('https://discord.gg/TTurJFz8')
+
+Section:NewButton("Real Corrupts Hub V4 ", "Need Key", function()
+pcall(function()
+loadstring(game:HttpGet("https://corruptshub.com/hub/V4/V4Loader"))()
+end)
+Library:ToggleUI()
+end)
+
+Section:NewButton("FE Resize (TALLER)", "-How To Use-*Only works in R15 games*Set character to R15Body Type 100% scale - Height 105%, Width 100%, Head 100%, Proportions 0% ", function()
+--[[
+-How To Use-
+*Only works in R15 games*
+Set character to R15
+Body Type 100%
+Scale - Height 105%, Width 100%, Head 100%, Proportions 0% 
+]]--
+
+--script made by failedmite57926
+
+local LocalPlayer = game:GetService("Players").LocalPlayer
+local Character = LocalPlayer.Character
+local Humanoid = Character:FindFirstChildOfClass("Humanoid")
+
+function rm()
+	for i,v in pairs(Character:GetDescendants()) do
+		if v:IsA("BasePart") then
+			if v.Name == "Handle" or v.Name == "Head" then
+				if Character.Head:FindFirstChild("OriginalSize") then
+					Character.Head.OriginalSize:Destroy()
+				end
+			else
+				for i,cav in pairs(v:GetDescendants()) do
+					if cav:IsA("Attachment") then
+						if cav:FindFirstChild("OriginalPosition") then
+							cav.OriginalPosition:Destroy()  
+						end
+					end
+				end
+				v:FindFirstChild("OriginalSize"):Destroy()
+				if v:FindFirstChild("AvatarPartScaleType") then
+					v:FindFirstChild("AvatarPartScaleType"):Destroy()
+				end
+			end
+		end
+	end
+end
+
+rm()
+wait(0.5)
+Humanoid:FindFirstChild("BodyProportionScale"):Destroy()
+wait(1)
+
+rm()
+wait(0.5)
+Humanoid:FindFirstChild("BodyHeightScale"):Destroy()
+wait(1)
+
+rm()
+wait(0.5)
+Humanoid:FindFirstChild("BodyWidthScale"):Destroy()
+wait(1)
+
+rm()
+wait(0.5)
+Humanoid:FindFirstChild("BodyDepthScale"):Destroy()
+wait(1)
+
+rm()
+wait(0.5)
+Humanoid:FindFirstChild("HeadScale"):Destroy()
+wait(1)
+Library:ToggleUI()
+end)
+
+Section:NewButton("Fe Resize (SMALLER)", "Need Key", function()
+local LocalPlayer = game:GetService("Players").LocalPlayer
+local Character = LocalPlayer.Character
+local Humanoid = Character:FindFirstChildOfClass("Humanoid")
+ 
+local function rm()
+    for i,v in pairs(Character:GetDescendants()) do
+        if v:IsA("BasePart") then
+            if v.Name ~= "Head" then
+                for i,cav in pairs(v:GetDescendants()) do
+                    if cav:IsA("Attachment") then
+                        if cav:FindFirstChild("OriginalPosition") then
+                            cav.OriginalPosition:Destroy()
+                        end
+                    end
+                end
+                v:FindFirstChild("OriginalSize"):Destroy()
+                if v:FindFirstChild("AvatarPartScaleType") then
+                    v:FindFirstChild("AvatarPartScaleType"):Destroy()
+                end
+            end
+        end
+    end
+end
+ 
+rm()
+wait(0.5)
+Humanoid:FindFirstChild("BodyTypeScale"):Destroy()
+wait(1)
+ 
+rm()
+wait(0.5)
+Humanoid:FindFirstChild("BodyWidthScale"):Destroy()
+wait(1)
+ 
+rm()
+wait(0.5)
+Humanoid:FindFirstChild("BodyDepthScale"):Destroy()
+wait(1)
+ 
+rm()
+wait(0.5)
+Humanoid:FindFirstChild("HeadScale"):Destroy()
+wait(1)
+Library:ToggleUI()
+end)
+
+Section:NewButton("Check Discord If Game Supported", "pls do", function()
+setclipboard('https://discord.gg/24kYCDh6wd')
 local StarterGui = game:GetService("StarterGui")
  
 local Notifications = {
@@ -46,7 +167,7 @@ while true do
         local Notification = Notifications[1]
  
         StarterGui:SetCore("SendNotification", {
-            Title = "Join Discord",
+            Title = "Discord",
             Text = Notification,
             Duration = 5
         })
@@ -55,12 +176,11 @@ while true do
     end
 end
 end)
-
 setclipboard('https://discord.gg/24kYCDh6wd')
 local StarterGui = game:GetService("StarterGui")
  
 local Notifications = {
-    "Welcome To Skids Hub V3!",
+    "Welcome To Skids Hub V1 !",
  
 }
  
@@ -70,7 +190,7 @@ while true do
         local Notification = Notifications[1]
  
         StarterGui:SetCore("SendNotification", {
-            Title = "credits",
+            Title = "Wait... WHAT",
             Text = Notification,
             Duration = 5
         })
