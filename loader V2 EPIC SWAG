@@ -13,7 +13,7 @@ local Tab = Window:NewTab("Main")
 local Section = Tab:NewSection("scripts")
 Section:NewButton("Load Main", "Main Visualizer", function()
 pcall(function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DarkManee/Mane-Hub/main/Skids%20Hub%20V1%20FREE"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DarkManee/Mane-Hub/main/Skiddo%20Hub%20V2%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG"))();
 end)
 Library:ToggleUI()
 end)
