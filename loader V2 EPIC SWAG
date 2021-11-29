@@ -25,19 +25,6 @@ end)
 Library:ToggleUI()
 end)
 
-Section:NewButton("Real Boombox Hub ( ._ )", "Only Who Paid To This Hub", function()
-pcall(function()
-loadstring(game:HttpGetAsync('https://riptxde.dev/u/hub/script.lua'))()
-end)
-Library:ToggleUI()
-end)
-
-Section:NewButton("Real Corrupts Hub V4 ", "Need Key", function()
-pcall(function()
-loadstring(game:HttpGet("https://corruptshub.com/hub/V4/V4Loader"))()
-end)
-Library:ToggleUI()
-end)
 
 Section:NewButton("FE Resize (TALLER)", "-How To Use-*Only works in R15 games*Set character to R15Body Type 100% scale - Height 105%, Width 100%, Head 100%, Proportions 0% ", function()
 --[[
