@@ -1,5 +1,5 @@
-allback = function(b)
-local normalid = tostring(library.flags.IDThing1)
+Callback = function(b)
+local normalid = tostring(venyx.AUDIO ID)
  local char_to_hex = function(c)
       return string.format("%%%02X", string.byte(c))
     end
