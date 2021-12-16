@@ -1,33 +1,40 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("Skids Hub V1", "BloodTheme")
+local DiscordLib =
+    loadstring(game:HttpGet "https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/discord")()
 
-local Tab = Window:NewTab("credits")
-local Section = Tab:NewSection("credits")
-Section:NewButton("made by 9B55#9225 and DARKMANE#7089", "we are cool", function()
-pcall(function()
-loadstring(game:HttpGet("https://pastebin.com/raw/vBEMLeih"))()
-end)
-end)
+local win = DiscordLib:Window("Skids Hub V2")
 
-local Tab = Window:NewTab("Main")
-local Section = Tab:NewSection("scripts")
-Section:NewButton("Load Main", "Main Visualizer", function()
-pcall(function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DarkManee/Mane-Hub/main/Skiddo%20Hub%20V2%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG"))();
-end)
-Library:ToggleUI()
-end)
+local serv = win:Server("Main", "")
 
-Section:NewButton("Universal ESP AIMBOT", "universal", function()
-pcall(function()
-loadstring(game:HttpGet("https://pastebin.com/raw/3PN0uBA3"))()
-end)
-Library:ToggleUI()
-end)
+local btns = serv:Channel("Scripts : ")
 
+btns:Button(
+    "Skids Hub V2!",
+    function()
+        pcall(function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/DarkManee/Mane-Hub/main/Skiddo%20Hub%20V2%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG%20OMG"))();
+        end)
+        DiscordLib:Notification("Notification", "Skiddo Hub V2", "Okay!")
+    end
+)
 
-Section:NewButton("FE Resize (TALLER)", "-How To Use-*Only works in R15 games*Set character to R15Body Type 100% scale - Height 105%, Width 100%, Head 100%, Proportions 0% ", function()
---[[
+btns:Seperator()
+
+btns:Button(
+    "Universal ESP - AIMBOT",
+    function()
+        pcall(function()
+            loadstring(game:HttpGet("https://pastebin.com/raw/3PN0uBA3"))()
+            end)
+            
+    end
+)
+
+btns:Seperator()
+
+btns:Button(
+    "Fe TALL",
+    function()
+        --[[
 -How To Use-
 *Only works in R15 games*
 Set character to R15
@@ -89,11 +96,16 @@ rm()
 wait(0.5)
 Humanoid:FindFirstChild("HeadScale"):Destroy()
 wait(1)
-Library:ToggleUI()
-end)
+     DiscordLib:Notification("Notification", "Skiddo Hub V2", "Okay!")
+    end
+)
 
-Section:NewButton("Fe Resize (SMALLER)", "Need Key", function()
-local LocalPlayer = game:GetService("Players").LocalPlayer
+btns:Seperator()
+
+btns:Button(
+    "Fe SMALL",
+    function()
+        local LocalPlayer = game:GetService("Players").LocalPlayer
 local Character = LocalPlayer.Character
 local Humanoid = Character:FindFirstChildOfClass("Humanoid")
  
@@ -136,38 +148,13 @@ rm()
 wait(0.5)
 Humanoid:FindFirstChild("HeadScale"):Destroy()
 wait(1)
-Library:ToggleUI()
-end)
-
-Section:NewButton("Check Discord If Game Supported", "pls do", function()
-setclipboard('https://discord.gg/24kYCDh6wd')
-local StarterGui = game:GetService("StarterGui")
- 
-local Notifications = {
-    "join",
- 
-}
- 
-local TimeBetweenNotifications = 99999999999999999999999999999999
-while true do
-    for i = 1, #Notifications do
-        local Notification = Notifications[1]
- 
-        StarterGui:SetCore("SendNotification", {
-            Title = "Discord",
-            Text = Notification,
-            Duration = 5
-        })
- 
-        wait(TimeBetweenNotifications)
+            DiscordLib:Notification("Notification", "HELLO","S")
     end
-end
-end)
-setclipboard('https://discord.gg/24kYCDh6wd')
-local StarterGui = game:GetService("StarterGui")
+)
+	local StarterGui = game:GetService("StarterGui")
  
 local Notifications = {
-    "Welcome To Skids Hub V1 !",
+    "Welcome To Skids Hub V3 Script Hub Loader! *Reminder Join Discord For Updates And Supported Games",
  
 }
  
@@ -177,9 +164,9 @@ while true do
         local Notification = Notifications[1]
  
         StarterGui:SetCore("SendNotification", {
-            Title = "Wait... WHAT",
+            Title = "Hello NOOB"
             Text = Notification,
-            Duration = 5
+            Duration = 6
         })
  
         wait(TimeBetweenNotifications)
